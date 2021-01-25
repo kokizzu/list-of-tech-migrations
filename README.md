@@ -1,5 +1,5 @@
-# list-of-tech-migrations
-list of public tech migrations
+# List of Tech Migrations
+list of public tech migrations (create a PR to if you have correction or addition)
 
 *   [Twitter](http://readwrite.com/2011/07/06/twitter-java-scala/) (2011) from Ruby to Scala
 *   [Urban Airship](http://wiki.postgresql.org/images/7/7f/Adam-lowry-postgresopen2011.pdf) (2011) from MongoDB to PostgreSQL
