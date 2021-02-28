@@ -80,3 +80,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
 *   [ownCloud](https://www.heise.de//news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html) (2021) from PHP to Go
 *   [Percona](https://www.percona.com/blog/2020/12/23/observations-on-better-resource-usage-with-percona-monitoring-and-management-v2-12-0/) (2021) from Prometheus to VictoriaMetrics
+*   [Aluma](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development) (2021) from C# to Go
