@@ -68,6 +68,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Two Fintech Giants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from OracleDB to CockroachDB  
 
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
+*   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Go to Rust
 *   [HSBC](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database) (2020) from DB2 to MongoDB 
 *   [Unnamed US Wireless Carrier](https://www.enterprisedb.com/resources/case-studies/us-wireless-carrier-migrates-100tb-oracle-database-edb-postgres-first-open) (2020) from Oracle to PostgreSQL
