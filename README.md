@@ -83,3 +83,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Percona](https://www.percona.com/blog/2020/12/23/observations-on-better-resource-usage-with-percona-monitoring-and-management-v2-12-0/) (2021) from Prometheus to VictoriaMetrics
 *   [Aluma](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development) (2021) from C# to Go
 *   [Olery](https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2021) from MongoDB to PostgreSQL
+*   [NitroKey](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core) (2021) Ubuntu Core to Debian
