@@ -84,3 +84,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Aluma](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development) (2021) from C# to Go
 *   [Olery](https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2021) from MongoDB to PostgreSQL
 *   [NitroKey](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core) (2021) Ubuntu Core to Debian
+*   [Slack](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/) (2021) HAProxy to Envoy
