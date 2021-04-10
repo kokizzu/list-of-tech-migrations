@@ -86,3 +86,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [NitroKey](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core) (2021) Ubuntu Core to Debian
 *   [Slack](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/) (2021) HAProxy to Envoy
 *   [Github](https://fhnjxazz4qgumnpam4q7tg4vxi-adwhj77lcyoafdy-github-blog.translate.goog/jp/2021-03-19-improving-large-monorepo-performance-on-github/) (2021) Ruby to Go
+*   [GumGum](https://www.youtube.com/watch?v=RR5j_1HV7ng) (2021) from Cassandra to ScyllaDB
