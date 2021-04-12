@@ -58,7 +58,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Google Flutter (confirmed)
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
 *   [SendGrid](https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month) (2018) from Perl/Python to Go
-*   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Go/MongoDB/ElasticSearch
+*   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Go/MongoDB/ElasticSearch/CloudSQL
 *   [Centrifugo](https://medium.com/@fzambia/centrifugo-v2-0-released-built-on-top-of-new-real-time-messaging-library-for-go-language-b6ac034a6937) (2018) from Python to Go
 *   [The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
 
