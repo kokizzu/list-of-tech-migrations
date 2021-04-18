@@ -28,7 +28,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [TrustWave](https://www.youtube.com/watch?v=5-32KP0JHaE) (2014) from ActionScript/Flex to Dart
 *   [Facebook](https://www.quora.com/When-did-Facebook-switch-away-from-using-Erlang-for-Facebook-Chat) [Chat](https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/) (2014) from Erlang to C++
 *   [Grab](https://www.youtube.com/watch?v=L688sHqXL2A) (2014) from Ruby/NodeJS to Go  
-
+*   [CloudFlare](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/) (2014) from PostgreSQL to CitusDB
 *   [Auth0](https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html) (2015) from Apache Kafka to ZeroMQ
 *   [Pinterest](https://venturebeat.com/2015/12/18/pinterest-elixir/) (2015) from Java to Elixir
 *   [President University](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP/MySQL to Go/PostgreSQL 
@@ -54,19 +54,17 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Baidu](https://www.cockroachlabs.com/case-studies/baidu/) (2017) from MySQL to CockroachDB
 *   [Boxzilla](https://dannyvankooten.com/laravel-to-golang/) (2017) from PHP to Go
 *   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
-
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Google Flutter (confirmed)
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
 *   [SendGrid](https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month) (2018) from Perl/Python to Go
 *   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Go/MongoDB/ElasticSearch/CloudSQL
 *   [Centrifugo](https://medium.com/@fzambia/centrifugo-v2-0-released-built-on-top-of-new-real-time-messaging-library-for-go-language-b6ac034a6937) (2018) from Python to Go
 *   [The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
-
+*   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to ClickHouse
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Go
 *   [Deliveroo](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) (2019) from Ruby to Rust
 *   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from OracleDB to Aurora Postgres and DynamoDB
 *   [Two Fintech Giants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from OracleDB to CockroachDB  
-
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Go to Rust
