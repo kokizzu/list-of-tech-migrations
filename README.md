@@ -76,6 +76,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [SimilarWeb](https://similarweb.engineering/moving-from-nodejs-to-go-doing-more-faster-for-less/) (2020) from NodeJS to Go
 *   [PayPal](https://go.dev/solutions/paypal/) (2020) from C++ to Go  
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
+*   [Unnamed Company](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
 
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
 *   [ownCloud](https://www.heise.de//news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html) (2021) from PHP to Go
@@ -88,3 +89,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [GumGum](https://www.youtube.com/watch?v=RR5j_1HV7ng) (2021) from Cassandra to ScyllaDB
 *   [SvelteKit](https://svelte.dev/blog/sveltekit-beta) (2021) from RollUp/SnowPack to Vite
 *   [ReplIt](https://blog.replit.com/vite) (2021) from WebPack to Vite
+*   [GitPod](https://www.gitpod.io/blog/from-gatsby-to-svelte) (2021) from React/Gatsby to Svelte
