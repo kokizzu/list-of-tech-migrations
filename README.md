@@ -55,12 +55,15 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Boxzilla](https://dannyvankooten.com/laravel-to-golang/) (2017) from PHP to Go
 *   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Google Flutter (confirmed)
+
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
 *   [SendGrid](https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month) (2018) from Perl/Python to Go
 *   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Go/MongoDB/ElasticSearch/CloudSQL
 *   [Centrifugo](https://medium.com/@fzambia/centrifugo-v2-0-released-built-on-top-of-new-real-time-messaging-library-for-go-language-b6ac034a6937) (2018) from Python to Go
 *   [The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
 *   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to ClickHouse
+*   [Github](https://github.blog/2018-09-06-removing-jquery-from-github-frontend/) (2018) from jQuery to vanilla javascript
+
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Go
 *   [Deliveroo](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) (2019) from Ruby to Rust
 *   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from OracleDB to Aurora Postgres and DynamoDB
