@@ -89,4 +89,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [GumGum](https://www.youtube.com/watch?v=RR5j_1HV7ng) (2021) from Cassandra to ScyllaDB
 *   [SvelteKit](https://svelte.dev/blog/sveltekit-beta) (2021) from RollUp/SnowPack to Vite
 *   [ReplIt](https://blog.replit.com/vite) (2021) from WebPack to Vite
-*   [GitPod](https://www.gitpod.io/blog/from-gatsby-to-svelte) (2021) from React/Gatsby to Svelte
+*   [GitPod](https://www.gitpod.io/blog/from-gatsby-to-svelte) (2021) from React/Gatsby to SvelteKit
