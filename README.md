@@ -114,3 +114,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [SvelteKit](https://svelte.dev/blog/sveltekit-beta) (2021) from RollUp/SnowPack to Vite
 *   [ReplIt](https://blog.replit.com/vite) (2021) from WebPack to Vite
 *   [GitPod](https://www.gitpod.io/blog/from-gatsby-to-svelte) (2021) from React/Gatsby to SvelteKit
+*   [NinjaVan](https://pingcap.com/case-studies/choose-a-mysql-alternative-over-vitess-and-crdb-to-scale-out-our-databases-on-k8s) (2021) from MySQL to TiDB
