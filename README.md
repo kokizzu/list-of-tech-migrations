@@ -86,6 +86,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
 *   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) (2019) from MySQL to TiDB
+*   [Zhihu](https://pingcap.com/case-studies/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu) (2019) from MySQL to TiDB
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Go to Rust
@@ -99,6 +100,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
 *   [Unnamed Company](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
 *   [PalFish](https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql) (2020) from MongoDB to TiDB
+
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
 *   [ownCloud](https://www.heise.de//news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html) (2021) from PHP to Go
