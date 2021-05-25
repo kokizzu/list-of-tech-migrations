@@ -98,7 +98,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [PayPal](https://go.dev/solutions/paypal/) (2020) from C++ to Go  
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
 *   [Unnamed Company](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
-
+*   [PalFish](https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql) (2020) from MongoDB to TiDB
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
 *   [ownCloud](https://www.heise.de//news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html) (2021) from PHP to Go
