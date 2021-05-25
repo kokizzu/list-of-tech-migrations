@@ -66,8 +66,10 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Stream](https://getstream.io/blog/switched-python-go/) (2017) from Python to Go
 *   [Baidu](https://www.cockroachlabs.com/case-studies/baidu/) (2017) from MySQL to CockroachDB
 *   [Boxzilla](https://dannyvankooten.com/laravel-to-golang/) (2017) from PHP to Go
+*   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) ([2017](https://pingcap.com/case-studies/2017-05-22-Comparison-between-MySQL-and-TiDB-with-tens-of-millions-of-data-per-day), 2019) from MySQL to TiDB
 *   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Google Flutter (confirmed)
+*   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
@@ -77,6 +79,10 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
 *   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to ClickHouse
 *   [Github](https://github.blog/2018-09-06-removing-jquery-from-github-frontend/) (2018) from jQuery to vanilla javascript
+*   [Meituan](https://pingcap.com/case-studies/migrating-from-mysql-to-a-scale-out-database-to-serve-our-290-million-monthly-users) (2018) from MySQL to TiDB
+*   [iQiyi](https://pingcap.com/case-studies/tidb-in-iqiyi) (2018) from MySQL to TiDB
+*   [Yiguo](https://pingcap.com/case-studies/hybrid-database-capturing-perishable-insights-at-yiguo) (2018) from Hadoop+MSSQL to TiDB
+*   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Go
@@ -85,8 +91,11 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Two Fintech Giants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from OracleDB to CockroachDB  
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
-*   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) (2019) from MySQL to TiDB
 *   [Zhihu](https://pingcap.com/case-studies/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu) (2019) from MySQL to TiDB
+*   [JDCloud](https://pingcap.com/case-studies/lesson-learned-from-40-k-qps-and-20-billion-rows-of-data-in-a-single-scale-out-cluster) (2019) from MySQL to TiDB
+*   [NetEaseGames](https://pingcap.com/case-studies/why-we-chose-tidb-over-other-mysql-based-and-newsql-storage-solutions) (2019) from MySQL to TiDB
+*   [Xiaomi](https://pingcap.com/case-studies/tidb-in-xiaomi) (2019) from MySQL to TiDB
+*   [BookMyShow](https://pingcap.com/case-studies/tidb-in-bookmyshow) (2019) from MSSQL to TiDB
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Go to Rust
@@ -104,6 +113,14 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [WeBank](https://pingcap.com/case-studies/how-we-reduced-batch-processing-time-by-58-percent-with-a-scale-out-mysql-alternative) (2020) from MySQL to TiDB
 *   [ChinaTelecomBestpay](https://pingcap.com/case-studies/how-we-process-data-five-times-more-efficiently-using-a-scale-out-mysql-alternative) (2020) from Oracle to TiDB
 *   [U-Next](https://pingcap.com/case-studies/running-a-scale-out-database-on-arm-as-mysql-alternative) (2020) from MySQL to TiDB
+*   [ZTOExpress](https://pingcap.com/case-studies/3x-it-efficiency-boost-use-a-scale-out-htap-database-for-near-real-time-analytics) (2020) from OracleExadata to TiDB
+*   [Xiaohongshu](https://pingcap.com/case-studies/how-we-use-a-scale-out-htap-database-for-real-time-analytics-and-complex-queries) (2020) from MySQL to TiDB
+*   [BankOfBeijing](https://pingcap.com/case-studies/how-we-use-a-distributed-database-to-achieve-horizontal-scaling-without-downtime) (2020) from ? to TiDB
+*   [BankOfChina](https://pingcap.com/case-studies/how-bank-of-china-uses-a-scale-out-database-to-support-zabbix-monitoring-at-scale) (2020) from MySQL to TiDB
+*   [ZhuanZhuan](https://pingcap.com/case-studies/scale-out-database-powers-china-letgo-with-reduced-maintenance-costs) (2020) from MySQL to TiDB
+*   [BIGO](https://pingcap.com/case-studies/why-we-chose-an-htap-database-over-mysql-for-horizontal-scaling-and-complex-queries) (2020) from MySQL to TiDB
+*   [VNG/ZaloPay](https://pingcap.com/case-studies/zalopay-using-a-scale-out-mysql-alternative-to-serve-millions-of-users) (2020) from MySQL to TiDB
+*   [VIPKid](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql) (2020) from MySQL to TiDB
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
