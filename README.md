@@ -100,6 +100,10 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
 *   [Unnamed Company](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
 *   [PalFish](https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql) (2020) from MongoDB to TiDB
+*   [Shopee](https://pingcap.com/case-studies/choosing-right-database-for-your-applications) (2020) from MySQL to TiDB
+*   [WeBank](https://pingcap.com/case-studies/how-we-reduced-batch-processing-time-by-58-percent-with-a-scale-out-mysql-alternative) (2020) from MySQL to TiDB
+*   [ChinaTelecomBestpay](https://pingcap.com/case-studies/how-we-process-data-five-times-more-efficiently-using-a-scale-out-mysql-alternative) (2020) from Oracle to TiDB
+*   [U-Next](https://pingcap.com/case-studies/running-a-scale-out-database-on-arm-as-mysql-alternative) (2020) from MySQL to TiDB
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Go
@@ -115,3 +119,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ReplIt](https://blog.replit.com/vite) (2021) from WebPack to Vite
 *   [GitPod](https://www.gitpod.io/blog/from-gatsby-to-svelte) (2021) from React/Gatsby to SvelteKit
 *   [NinjaVan](https://pingcap.com/case-studies/choose-a-mysql-alternative-over-vitess-and-crdb-to-scale-out-our-databases-on-k8s) (2021) from MySQL to TiDB
+*   [Meituan](https://pingcap.com/case-studies/how-we-use-a-mysql-alternative-to-avoid-sharding-and-provide-strong-consistency) (2021) from MySQL to TiDB
+*   [AutoHome](https://pingcap.com/case-studies/reduce-real-time-query-latency-from-0.5s-to-0.01s-with-scale-out-htap-database) (2021) from MSSQL  to TiDB
+*   [58.com](https://pingcap.com/case-studies/no-sharding-no-etl-use-scale-out-mysql-alternative-to-store-160-tb-of-data) (2021) from MySQL to TiDB
+*   [Chehaoduo](https://pingcap.com/case-studies/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative) (2021) from MySQL to TiDB
+*   [KunLun](https://pingcap.com/case-studies/empowering-your-gaming-application-with-a-scale-out-newsql-database) (2021) from MySQL to TiDB
+
