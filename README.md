@@ -141,4 +141,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [58.com](https://pingcap.com/case-studies/no-sharding-no-etl-use-scale-out-mysql-alternative-to-store-160-tb-of-data) (2021) from MySQL to TiDB
 *   [Chehaoduo](https://pingcap.com/case-studies/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative) (2021) from MySQL to TiDB
 *   [KunLun](https://pingcap.com/case-studies/empowering-your-gaming-application-with-a-scale-out-newsql-database) (2021) from MySQL to TiDB
+*   [GiG](https://www.youtube.com/watch?v=vkYvuIs1KcU&list=PLWhC0zeznqkkNYzcvHEfZ8hly3Cu9ojKk&index=8) (2021) from RedShift to ClickHouse
 
