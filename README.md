@@ -3,13 +3,13 @@ list of public tech migrations (create a PR to if you have correction or additio
 
 ## 2011
 *   [Twitter](http://readwrite.com/2011/07/06/twitter-java-scala/) (2011) from Ruby to Scala
-*   [Urban Airship](http://wiki.postgresql.org/images/7/7f/Adam-lowry-postgresopen2011.pdf) (2011) from MongoDB to PostgreSQL
+*   [UrbanAirship](http://wiki.postgresql.org/images/7/7f/Adam-lowry-postgresopen2011.pdf) (2011) from MongoDB to PostgreSQL
 *   [Mixpanel](https://code.mixpanel.com/2011/08/05/how-and-why-we-switched-from-erlang-to-python/) (2011) from Erlang to Python
 
 ## 2012
 *   [LinkedIn](http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html) (2012) from Ruby to NodeJS
 *   [MoovWeb](https://groups.google.com/forum/#!topic/golang-nuts/MeiTNnGhLg8/discussion) (2012) from ? to Go
-*   [NTP Pool](https://news.ntppool.org/2012/10/new-dns-server/) (2012) from Perl to Go
+*   [NTPPool](https://news.ntppool.org/2012/10/new-dns-server/) (2012) from Perl to Go
 *   [DLGoogle](https://talks.golang.org/2013/oscon-dl.slide#10) (2012) from C++ to Go
 *   [Bitly](http://word.bitly.com/post/29550171827/go-go-gadget) (2012) from Python/C to Go
 *   [SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud) (2012) from Ruby to Go
@@ -40,8 +40,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2015
 *   [Auth0](https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html) (2015) from Apache Kafka to ZeroMQ
 *   [Pinterest](https://venturebeat.com/2015/12/18/pinterest-elixir/) (2015) from Java to Elixir
-*   [President University](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP/MySQL to Go/PostgreSQL 
-*   [UserLike](https://www.userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql) (2015) from MySQL and MongoDB to PostgreSQL
+*   [PresidentUniversity](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP+MySQL to Go+PostgreSQL 
+*   [UserLike](https://www.userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql) (2015) from MySQL+MongoDB to PostgreSQL
 *   [Olery](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2015) from MongoDB to PostgreSQL
 *   [CrowdStrike](https://web.archive.org/web/20160612120018/http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/) (2015) from Scala to Go
 *   [DockYard](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) (2015) from Ruby to Elixir
@@ -50,13 +50,13 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CrowdStrike](http://126kr.com/article/8sx2b2nrcc7) (2016) from Scala to Go
 *   [Tokopedia](http://tech.tokopedia.com/blog/perl-to-go/) (2016) from Perl to Go
 *   [Uber](https://eng.uber.com/mysql-migration/) (2016) from PostgreSQL to MySQL
-*   [Uber](https://www.infoq.com/articles/podcast-matt-ranney) (2016) from NodeJS to Go and Java
+*   [Uber](https://www.infoq.com/articles/podcast-matt-ranney) (2016) from NodeJS to Go+Java
 *   [Uber](https://eng.uber.com/schemaless-rewrite/) (2016) from Python to Go
 *   [Digg](http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang) (2016) from NodeJS to Go
-*   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular Dart
+*   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular+Dart
 
 ## 2017
-*   [Bleacher Report](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
+*   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
 *   [UpGuard](https://www.upguard.com/blog/our-experience-with-golang) (2017) from JRuby to Go
 *   [Movio](https://movio.co/blog/migrate-Scala-to-Go/) (2017) from Scala to Go
 *   [Discord](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.bv31n293t) (2017) from MongoDB to Cassandra
@@ -76,7 +76,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [SendGrid](https://stackshare.io/sendgrid/how-sendgrid-scaled-to-40-billion-emails-per-month) (2018) from Perl/Python to Go
 *   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Go/MongoDB/ElasticSearch/CloudSQL
 *   [Centrifugo](https://medium.com/@fzambia/centrifugo-v2-0-released-built-on-top-of-new-real-time-messaging-library-for-go-language-b6ac034a6937) (2018) from Python to Go
-*   [The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
+*   [TheGuardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
 *   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to ClickHouse
 *   [Github](https://github.blog/2018-09-06-removing-jquery-from-github-frontend/) (2018) from jQuery to vanilla javascript
 *   [Meituan](https://pingcap.com/case-studies/migrating-from-mysql-to-a-scale-out-database-to-serve-our-290-million-monthly-users) (2018) from MySQL to TiDB
@@ -88,7 +88,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Go
 *   [Deliveroo](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) (2019) from Ruby to Rust
 *   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from Oracle to AuroraPostgres+DynamoDB
-*   [Two Fintech Giants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from Oracle to CockroachDB  
+*   [TwoFintechGiants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from Oracle to CockroachDB  
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
 *   [Zhihu](https://pingcap.com/case-studies/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu) (2019) from MySQL to TiDB
@@ -100,7 +100,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Go to Rust
 *   [HSBC](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database) (2020) from DB2 to MongoDB 
-*   [Unnamed US Wireless Carrier](https://www.enterprisedb.com/resources/case-studies/us-wireless-carrier-migrates-100tb-oracle-database-edb-postgres-first-open) (2020) from Oracle to PostgreSQL
+*   [UnnamedUSWirelessCarrier](https://www.enterprisedb.com/resources/case-studies/us-wireless-carrier-migrates-100tb-oracle-database-edb-postgres-first-open) (2020) from Oracle to PostgreSQL
 *   [ListenBrainz](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)  (2020) from InfluxDB to TimescaleDB
 *   [Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) (2020) from Nginx to Envoy
 *   [Repustate](https://www.repustate.com/blog/migrating-entire-api-go-python/) (2020) from Python to Go
