@@ -27,7 +27,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Iron.io](https://www.iron.io/how-we-went-from-30-servers-to-2-go/) (2013) from Ruby to Go
 *   [Zalora](http://www.slideshare.net/wuvist1/zalora-php-togoen) (2013) from PHP to Go
 *   [TimeHop](https://medium.com/building-timehop/why-timehop-chose-go-to-replace-our-rails-app-2855ea1912d#.h9cc85kym) (2013) from Ruby to Go
-*   [Canonical Juju](https://groups.google.com/forum/#!topic/golang-nuts/jLnMsUbYwrQ) (2013) from Python to Go
+*   [CanonicalJuju](https://groups.google.com/forum/#!topic/golang-nuts/jLnMsUbYwrQ) (2013) from Python to Go
 
 ## 2014
 *   [Instill](https://www.youtube.com/watch?v=Hg3cEBgq9Ds) (2014) from AngularDart to Polymer
@@ -88,7 +88,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Go
 *   [Deliveroo](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) (2019) from Ruby to Rust
 *   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from Oracle to AuroraPostgres+DynamoDB
-*   [TwoFintechGiants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from Oracle to CockroachDB  
+*   [2FintechGiants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from Oracle to CockroachDB  
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Go
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
 *   [Zhihu](https://pingcap.com/case-studies/lesson-learned-from-queries-over-1.3-trillion-rows-of-data-within-milliseconds-of-response-time-at-zhihu) (2019) from MySQL to TiDB
@@ -107,7 +107,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [SimilarWeb](https://similarweb.engineering/moving-from-nodejs-to-go-doing-more-faster-for-less/) (2020) from NodeJS to Go
 *   [PayPal](https://go.dev/solutions/paypal/) (2020) from C++ to Go  
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
-*   [Unnamed Company](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
+*   [UnnamedCompany](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
 *   [PalFish](https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql) (2020) from MongoDB to TiDB
 *   [Shopee](https://pingcap.com/case-studies/choosing-right-database-for-your-applications) (2020) from MySQL to TiDB
 *   [WeBank](https://pingcap.com/case-studies/how-we-reduced-batch-processing-time-by-58-percent-with-a-scale-out-mysql-alternative) (2020) from MySQL to TiDB
