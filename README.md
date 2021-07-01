@@ -142,5 +142,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Chehaoduo](https://pingcap.com/case-studies/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative) (2021) from MySQL to TiDB
 *   [KunLun](https://pingcap.com/case-studies/empowering-your-gaming-application-with-a-scale-out-newsql-database) (2021) from MySQL to TiDB
 *   [GiG](https://www.youtube.com/watch?v=vkYvuIs1KcU&list=PLWhC0zeznqkkNYzcvHEfZ8hly3Cu9ojKk&index=8) (2021) from RedShift to ClickHouse
-*   [Brex](https://www.brex.com) (2021) from Elixir to Kotlin
+*   [Brex](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b) (2021) from Elixir to Kotlin
 
