@@ -144,3 +144,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [GiG](https://www.youtube.com/watch?v=vkYvuIs1KcU&list=PLWhC0zeznqkkNYzcvHEfZ8hly3Cu9ojKk&index=8) (2021) from RedShift to ClickHouse
 *   [Brex](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b) (2021) from Elixir to Kotlin
 *   [Storj](https://thenewstack.io/why-the-storj-cloud-storage-service-switched-to-golang/) (2021) from Python to Golang
+*   [CoinBase](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) (2021) from Native to ReactNative
