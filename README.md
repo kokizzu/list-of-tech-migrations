@@ -45,7 +45,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2015
 *   [Auth0](https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html) (2015) from Apache Kafka to ZeroMQ
 *   [Pinterest](https://venturebeat.com/2015/12/18/pinterest-elixir/) (2015) from Java to Elixir
-*   [PresidentUniversity](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP+MySQL to Golang+PostgreSQL 
+*   [PresidentUniversity](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP/MySQL to Golang/PostgreSQL 
 *   [UserLike](https://www.userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql) (2015) from MySQL/MongoDB to PostgreSQL
 *   [Olery](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2015) from MongoDB to PostgreSQL
 *   [CrowdStrike](https://web.archive.org/web/20160612120018/http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/) (2015) from Scala to Golang
