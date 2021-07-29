@@ -125,6 +125,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [BIGO](https://pingcap.com/case-studies/why-we-chose-an-htap-database-over-mysql-for-horizontal-scaling-and-complex-queries) (2020) from MySQL to TiDB
 *   [VNG/ZaloPay](https://pingcap.com/case-studies/zalopay-using-a-scale-out-mysql-alternative-to-serve-millions-of-users) (2020) from MySQL to TiDB
 *   [VIPKid](https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql) (2020) from MySQL to TiDB
+*   [BRIKL](https://medium.com/yugabyte/distributed-sql-summit-recap-a-migration-journey-from-amazon-dynamodb-to-yugabytedb-and-hasura-507189cd9074) (2020) from DynamoDB to YugabyteDB/Hasura
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
@@ -132,7 +133,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Percona](https://www.percona.com/blog/2020/12/23/observations-on-better-resource-usage-with-percona-monitoring-and-management-v2-12-0/) (2021) from Prometheus to VictoriaMetrics
 *   [Aluma](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development) (2021) from C# to Golang
 *   [Olery](https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2021) from MongoDB to PostgreSQL
-*   [NitroKey](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core) (2021) Ubuntu Core to Debian
+*   [NitroKey](https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core) (2021) UbuntuCore to Debian
 *   [Slack](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/) (2021) HAProxy to Envoy
 *   [Github](https://fhnjxazz4qgumnpam4q7tg4vxi-adwhj77lcyoafdy-github-blog.translate.goog/jp/2021-03-19-improving-large-monorepo-performance-on-github/) (2021) Ruby to Golang
 *   [GumGum](https://www.youtube.com/watch?v=RR5j_1HV7ng) (2021) from Cassandra to ScyllaDB
