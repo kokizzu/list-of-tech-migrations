@@ -120,6 +120,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [UnnamedUSWirelessCarrier](https://www.enterprisedb.com/resources/case-studies/us-wireless-carrier-migrates-100tb-oracle-database-edb-postgres-first-open) (2020) from Oracle to PostgreSQL
 *   [ListenBrainz](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)  (2020) from InfluxDB to TimescaleDB
 *   [Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) (2020) from Nginx to Envoy
+*   [Dropbox](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine) (2020) from Python to Rust
 *   [Repustate](https://www.repustate.com/blog/migrating-entire-api-go-python/) (2020) from Python to Golang
 *   [SimilarWeb](https://similarweb.engineering/moving-from-nodejs-to-go-doing-more-faster-for-less/) (2020) from NodeJS to Golang
 *   [PayPal](https://go.dev/solutions/paypal/) (2020) from C++ to Golang  
