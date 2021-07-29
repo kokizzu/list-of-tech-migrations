@@ -88,6 +88,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [iQiyi](https://pingcap.com/case-studies/tidb-in-iqiyi) (2018) from MySQL to TiDB
 *   [Yiguo](https://pingcap.com/case-studies/hybrid-database-capturing-perishable-insights-at-yiguo) (2018) from Hadoop/MSSQLServer to TiDB
 *   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
+*   [Cash App](https://developer.squareup.com/blog/sharding-cash/) (2018) from MySQL to Vitess
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
