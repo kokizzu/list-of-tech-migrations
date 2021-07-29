@@ -137,6 +137,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Jutsuno](https://www.yugabyte.com/success-stories/justuno/) (2020) from Cassandra/Neo4j/MSSQLServer/CockroachDB to YugabyteDB
 *   [Manetu](https://www.yugabyte.com/success-stories/manetu/) (2020) from Cassandra? to YugabyteDB
 *   [BRIKL](https://medium.com/yugabyte/distributed-sql-summit-recap-a-migration-journey-from-amazon-dynamodb-to-yugabytedb-and-hasura-507189cd9074) (2020) from DynamoDB to YugabyteDB/Hasura
+*   [StadiaMaps](https://scylladb.medium.com/stadia-maps-using-scylla-to-serve-maps-in-milliseconds-640c0e4923b) (2020) from CockroachDB to ScyllaDB
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
@@ -165,3 +166,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Koyeb](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma) (2021) from Kubernetes to Nomad/Firecracker/Kuma
 *   [AccelByte](https://www.youtube.com/watch?v=-Zwr0CuPoCQ) (2021) from Kubernetes to Nomad/Consul
 *   [Expedia](https://scylladb.medium.com/expedia-group-our-migration-journey-to-scylla-12cdfa820442) (2021) from Cassandra to ScyllaDB
+*   [Grab](https://scylladb.medium.com/at-scylla-summit-2021-we-were-joined-by-two-members-of-the-engineering-team-at-grab-chao-wang-and-7a688d36a1f0) (2021) from Cassandra to ScyllaDB
