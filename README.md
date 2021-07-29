@@ -96,6 +96,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [NetEaseGames](https://pingcap.com/case-studies/why-we-chose-tidb-over-other-mysql-based-and-newsql-storage-solutions) (2019) from MySQL to TiDB
 *   [Xiaomi](https://pingcap.com/case-studies/tidb-in-xiaomi) (2019) from MySQL to TiDB
 *   [BookMyShow](https://pingcap.com/case-studies/tidb-in-bookmyshow) (2019) from MSSQLServer to TiDB
+*   [Trivago](https://searchitoperations.techtarget.com/news/252480628/HashiCorp-Nomad-vs-Kubernetes-matchup-intensifies-with-011) (2019) from Kubernetes to Nomad
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
