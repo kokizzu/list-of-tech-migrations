@@ -1,6 +1,8 @@
 # List of Tech Migrations
 list of public tech migrations (create a PR to if you have correction or addition), originally from [this blog](http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html)
 
+**note**: migration can be partial, year = year of the article/presentation
+
 ## 2005
 *   [Reddit](https://redditblog.com/2005/12/on-lisp.html) (2005) from CommonLISP to Python
 
