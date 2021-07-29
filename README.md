@@ -164,3 +164,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Archive.org](https://www.youtube.com/watch?v=1n1gPMxg8bg) (2021) from Kubernetes to Nomad/Consul
 *   [Koyeb](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma) (2021) from Kubernetes to Nomad/Firecracker/Kuma
 *   [AccelByte](https://www.youtube.com/watch?v=-Zwr0CuPoCQ) (2021) from Kubernetes to Nomad/Consul
+*   [Expedia](https://scylladb.medium.com/expedia-group-our-migration-journey-to-scylla-12cdfa820442) (2021) from Cassandra to ScyllaDB
