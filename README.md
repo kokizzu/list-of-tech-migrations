@@ -72,7 +72,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Movio](https://movio.co/blog/migrate-Scala-to-Go/) (2017) from Scala to Golang
 *   [Discord](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.bv31n293t) (2017) from MongoDB to Cassandra
 *   [Uber](https://www.blogger.com/7https://eng.uber.com/distributed-tracing/) (2017) Riak/Solr to Cassandra
-*   [Swat.io](http://garage.socialisten.at/2017/04/how-swat-io-migrated-from-mysql-to-postgresql-in-2-years/) (2017) from MySQL to PostgreSQL
+*   [Swat.io](https://web.archive.org/web/20181122212934/https://garage.socialisten.at/2017/04/how-swat-io-migrated-from-mysql-to-postgresql-in-2-years/) (2017) from MySQL to PostgreSQL
 *   [Poki](https://blog.poki.com/going-for-go-and-sticking-with-sql-a30faa42d643) (2017) from PHP to Golang
 *   [Stream](https://getstream.io/blog/switched-python-go/) (2017) from Python to Golang
 *   [Baidu](https://www.cockroachlabs.com/case-studies/baidu/) (2017) from MySQL to CockroachDB
