@@ -4,7 +4,6 @@ list of public tech migrations (create a PR to if you have correction or additio
 **note**: 
 * migration can be partial (not whole stack, since most companies out there not using single programming language/database anyway)
 * year = year of the article/presentation, or the year of migration if stated on the article/presentation.
-* please create PR if you found other stuff
 * discuss here: [reddit thread](https://www.reddit.com/r/programming/comments/otqxp8/list_of_tech_migrations/) / [ycombinator discussion](https://news.ycombinator.com/item?id=27993194)
 
 ## 2005
