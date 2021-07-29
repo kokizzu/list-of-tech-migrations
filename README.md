@@ -2,7 +2,7 @@
 list of public tech migrations (create a PR to if you have correction or addition), originally from [this blog](http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html)
 
 ## 2005
-*   [Reddit](https://news.ycombinator.com/item?id=3815491) (2005) from Common LISP to Python
+*   [Reddit](https://redditblog.com/2005/12/on-lisp.html) (2005) from CommonLISP to Python
 
 ## 2011
 *   [Twitter](http://readwrite.com/2011/07/06/twitter-java-scala/) (2011) from Ruby to Scala
