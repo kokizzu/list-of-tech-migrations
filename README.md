@@ -6,6 +6,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2005
 *   [Reddit](https://news.ycombinator.com/item?id=3815491) (2005) from CommonLISP to Python
 
+## 2010
+*   [Bing](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/) (2010) from C++ to DotNET
+
 ## 2011
 *   [Twitter](http://readwrite.com/2011/07/06/twitter-java-scala/) (2011) from Ruby to Scala
 *   [UrbanAirship](http://wiki.postgresql.org/images/7/7f/Adam-lowry-postgresopen2011.pdf) (2011) from MongoDB to PostgreSQL
@@ -89,6 +92,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Yiguo](https://pingcap.com/case-studies/hybrid-database-capturing-perishable-insights-at-yiguo) (2018) from Hadoop/MSSQLServer to TiDB
 *   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
 *   [CashApp](https://developer.squareup.com/blog/sharding-cash/) (2018) from MySQL to Vitess
+*   [Bing](https://visualstudiomagazine.com/articles/2018/08/22/bing-net-core.aspx?m=1) (2018) from DotNET to DotNetCore
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
