@@ -41,7 +41,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Auth0](https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html) (2015) from Apache Kafka to ZeroMQ
 *   [Pinterest](https://venturebeat.com/2015/12/18/pinterest-elixir/) (2015) from Java to Elixir
 *   [PresidentUniversity](https://www.socketloop.com/blogs/interview-with-kiswono-prayogo-head-of-software-development-at-president-university-indonesia) (2015) from PHP+MySQL to Golang+PostgreSQL 
-*   [UserLike](https://www.userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql) (2015) from MySQL+MongoDB to PostgreSQL
+*   [UserLike](https://www.userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql) (2015) from MySQL/MongoDB to PostgreSQL
 *   [Olery](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2015) from MongoDB to PostgreSQL
 *   [CrowdStrike](https://web.archive.org/web/20160612120018/http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/) (2015) from Scala to Golang
 *   [DockYard](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) (2015) from Ruby to Elixir
@@ -50,10 +50,10 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CrowdStrike](http://126kr.com/article/8sx2b2nrcc7) (2016) from Scala to Golang
 *   [Tokopedia](http://tech.tokopedia.com/blog/perl-to-go/) (2016) from Perl to Golang
 *   [Uber](https://eng.uber.com/mysql-migration/) (2016) from PostgreSQL to MySQL
-*   [Uber](https://www.infoq.com/articles/podcast-matt-ranney) (2016) from NodeJS to Golang+Java
+*   [Uber](https://www.infoq.com/articles/podcast-matt-ranney) (2016) from NodeJS to Golang/Java
 *   [Uber](https://eng.uber.com/schemaless-rewrite/) (2016) from Python to Golang
 *   [Digg](http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang) (2016) from NodeJS to Golang
-*   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular+Dart
+*   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular/Dart
 
 ## 2017
 *   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
@@ -81,13 +81,13 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Github](https://github.blog/2018-09-06-removing-jquery-from-github-frontend/) (2018) from jQuery to vanilla javascript
 *   [Meituan](https://pingcap.com/case-studies/migrating-from-mysql-to-a-scale-out-database-to-serve-our-290-million-monthly-users) (2018) from MySQL to TiDB
 *   [iQiyi](https://pingcap.com/case-studies/tidb-in-iqiyi) (2018) from MySQL to TiDB
-*   [Yiguo](https://pingcap.com/case-studies/hybrid-database-capturing-perishable-insights-at-yiguo) (2018) from Hadoop+MSSQLServer to TiDB
+*   [Yiguo](https://pingcap.com/case-studies/hybrid-database-capturing-perishable-insights-at-yiguo) (2018) from Hadoop/MSSQLServer to TiDB
 *   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
 *   [Deliveroo](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) (2019) from Ruby to Rust
-*   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from Oracle to AuroraPostgres+DynamoDB
+*   [Amazon](https://www.theregister.co.uk/2019/04/02/amazon_fulfilment_oracle_database) (2019) from Oracle to AuroraPostgres/DynamoDB
 *   [2FintechGiants](https://www.youtube.com/watch?v=IG1E7O1rl-s) (2019) from Oracle to CockroachDB  
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang) (2019) from Python to Golang
 *   [Comcast](https://www.scylladb.com/tech-talk/sprinting-from-cassandra-to-scylladb/) (2019) from Cassandra to ScyllaDB
@@ -145,4 +145,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Brex](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b) (2021) from Elixir to Kotlin
 *   [Storj](https://thenewstack.io/why-the-storj-cloud-storage-service-switched-to-golang/) (2021) from Python to Golang
 *   [CoinBase](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) (2021) from Native to ReactNative
-*   [Archive.org](https://www.youtube.com/watch?v=1n1gPMxg8bg) (2021) from Kubernetes to Nomad+Consul
+*   [Archive.org](https://www.youtube.com/watch?v=1n1gPMxg8bg) (2021) from Kubernetes to Nomad/Consul
+*   [Koyeb](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma) (2021) from Kubernetes to Nomad/Firecracker/Kuma
