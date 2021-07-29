@@ -147,3 +147,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CoinBase](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) (2021) from Native to ReactNative
 *   [Archive.org](https://www.youtube.com/watch?v=1n1gPMxg8bg) (2021) from Kubernetes to Nomad/Consul
 *   [Koyeb](https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma) (2021) from Kubernetes to Nomad/Firecracker/Kuma
+*   [AccelByte](https://www.youtube.com/watch?v=-Zwr0CuPoCQ) (2021) from Kubernetes to Nomad/Consul
