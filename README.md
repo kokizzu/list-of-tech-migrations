@@ -56,6 +56,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Olery](http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/) (2015) from MongoDB to PostgreSQL
 *   [CrowdStrike](https://web.archive.org/web/20160612120018/http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/) (2015) from Scala to Golang
 *   [DockYard](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) (2015) from Ruby to Elixir
+*   [Parse](https://web.archive.org/web/20150611021959/http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/) (2015) from Ruby to Golang
 
 ## 2016
 *   [CrowdStrike](http://126kr.com/article/8sx2b2nrcc7) (2016) from Scala to Golang
