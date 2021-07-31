@@ -150,6 +150,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [BRIKL](https://medium.com/yugabyte/distributed-sql-summit-recap-a-migration-journey-from-amazon-dynamodb-to-yugabytedb-and-hasura-507189cd9074) (2020) from DynamoDB to YugabyteDB/Hasura
 *   [StadiaMaps](https://scylladb.medium.com/stadia-maps-using-scylla-to-serve-maps-in-milliseconds-640c0e4923b) (2020) from CockroachDB to ScyllaDB
 *   [Roblox](https://www.youtube.com/watch?v=6xOUbJ7wnP8) (2020) from Windows to Linux/Nomad
+*   [Rekki](https://dev.to/rekki/why-we-killed-elixir-3np) (2020) from Elixir to Golang
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
