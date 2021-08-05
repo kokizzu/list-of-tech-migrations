@@ -114,6 +114,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Narvar](https://www.yugabyte.com/success-stories/narvar/) (2019) from DynamoDB/PostgreSQL-RDS to YugabyteDB
 *   [PlumeDesignsInc](https://www.yugabyte.com/success-stories/plume/) (2019) from MongoDB to YugabyteDB
 *   [SkyElectric](https://scylladb.medium.com/how-skyelectric-uses-scylla-to-power-its-smart-energy-platform-751f5b976d19) (2019) from MySQL/MongoDB/NodeJS to PostgreSQL/ElasticSearch/ScyllaDB/Elixir
+*   [Paytm](https://grafana.com/blog/2019/11/19/how-loki-helped-paytm-insider-save-75-of-logging-and-monitoring-costs/) (2019) from ElasticSearch to Loki
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
