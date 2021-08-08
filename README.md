@@ -181,3 +181,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [AccelByte](https://www.youtube.com/watch?v=-Zwr0CuPoCQ) (2021) from Kubernetes to Nomad/Consul
 *   [Expedia](https://scylladb.medium.com/expedia-group-our-migration-journey-to-scylla-12cdfa820442) (2021) from Cassandra to ScyllaDB
 *   [Grab](https://scylladb.medium.com/at-scylla-summit-2021-we-were-joined-by-two-members-of-the-engineering-team-at-grab-chao-wang-and-7a688d36a1f0) (2021) from Cassandra to ScyllaDB
+*   [ReadyForSky](https://medium.com/@tarantool/can-tarantool-beat-redis-in-iot-703bbc781d6e) (2021) from Redis to Tarantool
