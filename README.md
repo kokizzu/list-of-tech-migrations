@@ -31,6 +31,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Etsy](http://mcfunley.com/why-mongodb-never-worked-out-at-etsy) (2012) from MongoDB to MySQL
 *   [TekPub](http://rob.conery.io/2012/02/22/alt-tekpub-moving-to-mongodb/) (2012) from MongoDB to PostgreSQL
 *   [TargeterApp](http://blog.targeterapp.com/post/22984987832/why-we-moved-from-nodejs-to-ror) (2012) from NodeJS to Ruby
+*   [Dropbox](https://dropbox.tech/application/dropbox-dives-into-coffeescript) (2012) from JavaScript to CoffeeScript
 
 ## 2013
 *   [PayPal](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/) (2013) from Java to NodeJS
@@ -82,6 +83,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Flutter
 *   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
+*   [Dropbox](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) from CoffeeScript to TypeScript
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
