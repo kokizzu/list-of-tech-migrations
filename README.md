@@ -186,3 +186,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Grab](https://scylladb.medium.com/at-scylla-summit-2021-we-were-joined-by-two-members-of-the-engineering-team-at-grab-chao-wang-and-7a688d36a1f0) (2021) from Cassandra to ScyllaDB
 *   [ReadyForSky](https://medium.com/@tarantool/can-tarantool-beat-redis-in-iot-703bbc781d6e) (2021) from Redis to Tarantool
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
+*   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStah+Kibana to ClickHouse
