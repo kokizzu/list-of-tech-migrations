@@ -99,6 +99,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
 *   [CashApp](https://developer.squareup.com/blog/sharding-cash/) (2018) from MySQL to Vitess
 *   [Bing](https://visualstudiomagazine.com/articles/2018/08/22/bing-net-core.aspx?m=1) (2018) from DotNET to DotNetCore
+*   [PixelJets](https://pixeljets.com/blog/clickhouse-as-a-replacement-for-elk-big-query-and-timescaledb/) (2018) from ElsticSearch+LogStash+Kibana/BigQuery to ClickHouse
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
@@ -117,7 +118,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [PlumeDesignsInc](https://www.yugabyte.com/success-stories/plume/) (2019) from MongoDB to YugabyteDB
 *   [SkyElectric](https://scylladb.medium.com/how-skyelectric-uses-scylla-to-power-its-smart-energy-platform-751f5b976d19) (2019) from MySQL/MongoDB/NodeJS to PostgreSQL/ElasticSearch/ScyllaDB/Elixir
 *   [Paytm](https://grafana.com/blog/2019/11/19/how-loki-helped-paytm-insider-save-75-of-logging-and-monitoring-costs/) (2019) from ElasticSearch to Loki
-*   [ContentSquare](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) [slide](https://www.slideshare.net/VianneyFOUCAULT/meetup-a-successful-migration-from-elastic-search-to-clickhouse-179072416) [video](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
+*   [ContentSquare](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2019) from ElsticSearch+LogStash+Kibana to ClickHouse
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
