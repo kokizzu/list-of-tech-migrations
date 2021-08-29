@@ -188,4 +188,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
 *   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
-*   [ContentSquare](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
+*   [ContentSquare](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) [slide](https://www.slideshare.net/VianneyFOUCAULT/meetup-a-successful-migration-from-elastic-search-to-clickhouse-179072416) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
