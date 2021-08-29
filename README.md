@@ -117,6 +117,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [PlumeDesignsInc](https://www.yugabyte.com/success-stories/plume/) (2019) from MongoDB to YugabyteDB
 *   [SkyElectric](https://scylladb.medium.com/how-skyelectric-uses-scylla-to-power-its-smart-energy-platform-751f5b976d19) (2019) from MySQL/MongoDB/NodeJS to PostgreSQL/ElasticSearch/ScyllaDB/Elixir
 *   [Paytm](https://grafana.com/blog/2019/11/19/how-loki-helped-paytm-insider-save-75-of-logging-and-monitoring-costs/) (2019) from ElasticSearch to Loki
+*   [ContentSquare](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) [slide](https://www.slideshare.net/VianneyFOUCAULT/meetup-a-successful-migration-from-elastic-search-to-clickhouse-179072416) [video](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
@@ -188,4 +189,3 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
 *   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
-*   [ContentSquare](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) [slide](https://www.slideshare.net/VianneyFOUCAULT/meetup-a-successful-migration-from-elastic-search-to-clickhouse-179072416) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
