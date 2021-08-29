@@ -187,3 +187,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ReadyForSky](https://medium.com/@tarantool/can-tarantool-beat-redis-in-iot-703bbc781d6e) (2021) from Redis to Tarantool
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStah+Kibana to ClickHouse
+*   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
