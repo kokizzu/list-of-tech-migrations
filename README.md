@@ -159,6 +159,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Rekki](https://dev.to/rekki/why-we-killed-elixir-3np) (2020) from Elixir to Golang
 *   [Tubber](https://roelofjanelsinga.com/articles/the-impact-of-migrating-from-php-to-golang/) (2020) from PHP to Golang
 *   [EBay](https://tech.ebayinc.com/engineering/ou-online-analytical-processing/) (2020) from ApacheDruid to ClickHouse
+*   [Shippo](https://goshippo.com/blog/the-road-to-aurora-postgresql-with-near-zero-downtime/) (2020) from PostgreSQL to Aurora
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
