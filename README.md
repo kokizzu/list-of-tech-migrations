@@ -40,6 +40,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Zalora](http://www.slideshare.net/wuvist1/zalora-php-togoen) (2013) from PHP to Golang
 *   [TimeHop](https://medium.com/building-timehop/why-timehop-chose-go-to-replace-our-rails-app-2855ea1912d#.h9cc85kym) (2013) from Ruby to Golang
 *   [CanonicalJuju](https://groups.google.com/forum/#!topic/golang-nuts/jLnMsUbYwrQ) (2013) from Python to Golang
+*   [Facebook](https://en.wikipedia.org/wiki/HHVM) (2013) from PHP to Hack
 
 ## 2014
 *   [Instill](https://www.youtube.com/watch?v=Hg3cEBgq9Ds) (2014) from AngularDart to Polymer
