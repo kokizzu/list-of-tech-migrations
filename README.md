@@ -67,6 +67,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Uber](https://eng.uber.com/schemaless-rewrite/) (2016) from Python to Golang
 *   [Digg](http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang) (2016) from NodeJS to Golang
 *   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular/Dart
+*   [Slack](https://jaxenter.com/php-hack-slack-168741.html) (2016) from PHP to Hack
 
 ## 2017
 *   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
