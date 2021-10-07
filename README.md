@@ -196,3 +196,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
 *   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
+*   [Wallaroo](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) (2021) from Pony to Rust
