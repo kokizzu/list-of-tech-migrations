@@ -59,6 +59,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CrowdStrike](https://web.archive.org/web/20160612120018/http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/) (2015) from Scala to Golang
 *   [DockYard](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) (2015) from Ruby to Elixir
 *   [Parse](https://web.archive.org/web/20150611021959/http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/) (2015) from Ruby to Golang
+*   [Marriot](https://diginomica.com/why-marriott-is-transforming-their-legacy-systems-with-nosql) (2015) from Unknown to Couchbase
 
 ## 2016
 *   [CrowdStrike](http://126kr.com/article/8sx2b2nrcc7) (2016) from Scala to Golang
@@ -69,6 +70,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Digg](http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang) (2016) from NodeJS to Golang
 *   [Google AdWords](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (2016) from GWT to Angular/Dart
 *   [Slack](https://jaxenter.com/php-hack-slack-168741.html) (2016) from PHP to Hack
+*   [Sky](https://blog.couchbase.com/moving-from-oracle-to-couchbase/) (2016) from Oracle to Couchbase
+*   [Amadeus](https://www.computerweekly.com/news/450404428/Amadeus-turns-to-NoSQL-to-answer-complex-travel-questions) (2016) from Oracle to Couchbase
 
 ## 2017
 *   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
