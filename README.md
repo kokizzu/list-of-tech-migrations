@@ -200,4 +200,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
 *   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
 *   [Wallaroo](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) (2021) from Pony to Rust
-*   [ContentServ](https://www.youtube.com/watch?v=P-HBEDzNuWg) (2021) from Cassandra to ScyllDB
+*   [ContentServ](https://www.youtube.com/watch?v=P-HBEDzNuWg) (2021) from Cassandra to ScyllaDB
