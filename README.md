@@ -204,3 +204,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/) (2021) from Javascript to Typescript
 *   [JD.com](https://pingcap.com/case-studies/8x-system-performance-boost-why-we-migrated-from-mysql-to-newsql-database) (2021) from MySQL to TiDB
 *   [HuyaLive](https://pingcap.com/case-studies/how-we-scale-out-databases-and-get-big-data-queries-6x-faster-with-a-mysql-alternative) (2021) from MySQL to TiDB
+*   [LevelUpTutorials](https://www.youtube.com/watch?v=ezk6qAIXe68) (2021) from React to Svelte
