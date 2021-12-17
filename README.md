@@ -126,6 +126,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ContentSquare](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2019) from ElsticSearch+LogStash+Kibana to ClickHouse
 *   [Sentry](https://blog.sentry.io/2019/05/16/introducing-snuba-sentrys-new-search-infrastructure) (2019) from PostgreSQL+Redis to ClickHouse
 *   [HashNode](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz) (2019) from Nginx to Caddy
+*   [CitizensBank](https://www.youtube.com/watch?v=YGujnkAV3pc) (2019) from Kubernetes to DockerSwarm
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
