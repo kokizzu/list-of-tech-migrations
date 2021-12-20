@@ -139,7 +139,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [SimilarWeb](https://similarweb.engineering/moving-from-nodejs-to-go-doing-more-faster-for-less/) (2020) from NodeJS to Golang
 *   [PayPal](https://go.dev/solutions/paypal/) (2020) from C++ to Golang  
 *   [Discord](https://www.scylladb.com/press-release/discord-chooses-scylla-core-storage-layer/) (2020) from Cassandra to ScyllaDB
-*   [UnnamedCompany](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
+*   [Weblove](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
 *   [PalFish](https://pingcap.com/case-studies/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql) (2020) from MongoDB to TiDB
 *   [Shopee](https://pingcap.com/case-studies/choosing-right-database-for-your-applications) (2020) from MySQL to TiDB
 *   [WeBank](https://pingcap.com/case-studies/how-we-reduced-batch-processing-time-by-58-percent-with-a-scale-out-mysql-alternative) (2020) from MySQL to TiDB
