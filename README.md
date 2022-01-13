@@ -88,7 +88,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Flutter
 *   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
-*   [Dropbox](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) from CoffeeScript to TypeScript
+*   [Dropbox](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) (2017) from CoffeeScript to TypeScript
+*   [Manage](https://www.singlestore.com/blog/how-manage-accelerated-data-freshness-by-10x/) (2017) from MySQL/Hadoop/Hive/Kafka to SingleStore
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
@@ -105,6 +106,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CashApp](https://developer.squareup.com/blog/sharding-cash/) (2018) from MySQL to Vitess
 *   [Bing](https://visualstudiomagazine.com/articles/2018/08/22/bing-net-core.aspx?m=1) (2018) from DotNET to DotNetCore
 *   [PixelJets](https://pixeljets.com/blog/clickhouse-as-a-replacement-for-elk-big-query-and-timescaledb/) (2018) from ElsticSearch+LogStash+Kibana/BigQuery to ClickHouse
+*   [Insite360](https://www.singlestore.com/blog/case-study-insite360-memsql-iot-cloud/) (2018) from RedShift to SingleStore
+*   [Areeba](https://www.singlestore.com/blog/areeba-case-study/) (2018) from Hadoop/MariaDB to SingleStore
+*   [Wag](https://www.singlestore.com/blog/wag-labs-case-study/) (2018) from MySQL to SingleStore
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
@@ -127,6 +131,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Sentry](https://blog.sentry.io/2019/05/16/introducing-snuba-sentrys-new-search-infrastructure) (2019) from PostgreSQL+Redis to ClickHouse
 *   [HashNode](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz) (2019) from Nginx to Caddy
 *   [CitizensBank](https://www.youtube.com/watch?v=YGujnkAV3pc) (2019) from Kubernetes to DockerSwarm
+*   [Medaxion](https://www.singlestore.com/blog/case-study-medaxion-analytics-medtech/) (2019) from MySQL to SingleStore
+*   [GoGuardian](https://www.singlestore.com/blog/case-study-goguardian-fast-analytics/) (2019) from Druid to SingleStore
+*   [AFortune50Company](https://www.singlestore.com/blog/case-study-hadoop-memsql-fortune-50/) (2019) from Hadoop to SingleStore
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
@@ -167,6 +174,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Tubber](https://roelofjanelsinga.com/articles/the-impact-of-migrating-from-php-to-golang/) (2020) from PHP to Golang
 *   [EBay](https://tech.ebayinc.com/engineering/ou-online-analytical-processing/) (2020) from ApacheDruid to ClickHouse
 *   [Shippo](https://goshippo.com/blog/the-road-to-aurora-postgresql-with-near-zero-downtime/) (2020) from PostgreSQL to Aurora
+*   [Nucleus](https://www.singlestore.com/customers/nucleus/) (2020) from MariaDB to SingleStore
+*   [AMajorOilAndGasCompany](https://www.singlestore.com/blog/memsql-improves-financial-operations-for-a-major-oil-and-gas-company/) (2020) from ElasticSearch to SingleStore
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
@@ -207,6 +216,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [HuyaLive](https://pingcap.com/case-studies/how-we-scale-out-databases-and-get-big-data-queries-6x-faster-with-a-mysql-alternative) (2021) from MySQL to TiDB
 *   [LevelUpTutorials](https://www.youtube.com/watch?v=ezk6qAIXe68) (2021) from React to Svelte
 *   [Voucherify](https://www.voucherify.io/tech/how-we-moved-from-mongodb-to-postgres-without-downtime-and-cut-our-costs-by-30) (2021) from MongoDB to PostgreSQL
+*   [Fathom](https://www.singlestore.com/customers/fathom/) (2021) from MySQL/Redis/DynamoDB to SingleStore
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
