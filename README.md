@@ -72,6 +72,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Slack](https://jaxenter.com/php-hack-slack-168741.html) (2016) from PHP to Hack
 *   [Sky](https://blog.couchbase.com/moving-from-oracle-to-couchbase/) (2016) from Oracle to Couchbase
 *   [Amadeus](https://www.computerweekly.com/news/450404428/Amadeus-turns-to-NoSQL-to-answer-complex-travel-questions) (2016) from Oracle to Couchbase
+*   [AppsFlyer](https://www.singlestore.com/blog/appsflyer-shares-journey-to-real-time-analytics-using-memsql/) (2016) from Druid/MongoDB/Redis/Cassandra/Redshift to SingleStore
 
 ## 2017
 *   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
@@ -90,6 +91,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
 *   [Dropbox](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) (2017) from CoffeeScript to TypeScript
 *   [Manage](https://www.singlestore.com/blog/how-manage-accelerated-data-freshness-by-10x/) (2017) from MySQL/Hadoop/Hive/Kafka to SingleStore
+*   [BlueShift](https://www.singlestore.com/blog/blueshift-succeeding-with-real-time-analytics/) (2017) from MSSQLServer to SingleStore
+*   [Myntra](https://www.singlestore.com/blog/guest-post-real-time-big-data-ingestion-with-meterial/) (2017) from RedShift to SingleStore
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
@@ -109,6 +112,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Insite360](https://www.singlestore.com/blog/case-study-insite360-memsql-iot-cloud/) (2018) from RedShift to SingleStore
 *   [Areeba](https://www.singlestore.com/blog/areeba-case-study/) (2018) from Hadoop/MariaDB to SingleStore
 *   [Wag](https://www.singlestore.com/blog/wag-labs-case-study/) (2018) from MySQL to SingleStore
+*   [Fanatics](https://www.singlestore.com/blog/how-fanatics-powered-their-way-to-a-better-future/) (2018) from ElasticSearch to SingleStore
+*   [Pandora](https://www.singlestore.com/blog/pandora/) (2018) from Hadoop to SingleStore
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
@@ -134,6 +139,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Medaxion](https://www.singlestore.com/blog/case-study-medaxion-analytics-medtech/) (2019) from MySQL to SingleStore
 *   [GoGuardian](https://www.singlestore.com/blog/case-study-goguardian-fast-analytics/) (2019) from Druid to SingleStore
 *   [AFortune50Company](https://www.singlestore.com/blog/case-study-hadoop-memsql-fortune-50/) (2019) from Hadoop to SingleStore
+*   [diwo](https://www.singlestore.com/blog/case-study-memsql-powering-ai-breakthroughs-at-diwo/) (2019) from Redis/Cassandra to SingleStore
+*   [KurtoSys](https://www.singlestore.com/blog/case-study-kurtosys-why-would-i-store-my-data-in-more-than-one-database/) (2019) from CouchBase to SingleStore
+*   [monday.com](https://www.singlestore.com/blog/case-study-mondaydotcom-bi/) (2019) from ElasticSearch to SingleStore
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
@@ -176,6 +184,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Shippo](https://goshippo.com/blog/the-road-to-aurora-postgresql-with-near-zero-downtime/) (2020) from PostgreSQL to Aurora
 *   [Nucleus](https://www.singlestore.com/customers/nucleus/) (2020) from MariaDB to SingleStore
 *   [AMajorOilAndGasCompany](https://www.singlestore.com/blog/memsql-improves-financial-operations-for-a-major-oil-and-gas-company/) (2020) from ElasticSearch to SingleStore
+*   [TapJoy](https://www.singlestore.com/blog/tapjoy-moving-to-memsql/) (2020) from MySQL to SingleStore
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
