@@ -207,3 +207,6 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [HuyaLive](https://pingcap.com/case-studies/how-we-scale-out-databases-and-get-big-data-queries-6x-faster-with-a-mysql-alternative) (2021) from MySQL to TiDB
 *   [LevelUpTutorials](https://www.youtube.com/watch?v=ezk6qAIXe68) (2021) from React to Svelte
 *   [Voucherify](https://www.voucherify.io/tech/how-we-moved-from-mongodb-to-postgres-without-downtime-and-cut-our-costs-by-30) (2021) from MongoDB to PostgreSQL
+
+## 2022
+*   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
