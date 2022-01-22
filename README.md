@@ -229,3 +229,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
+*   [Prismatic.io](https://faun.pub/why-we-moved-from-lambda-to-ecs-b84674f31869) (2022) from AWS Lambda to Amazon ECS
