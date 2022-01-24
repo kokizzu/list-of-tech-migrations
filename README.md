@@ -6,6 +6,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 * year = year of the article/presentation, or the year of migration if stated on the article/presentation.
 * discuss here: [reddit thread](https://www.reddit.com/r/programming/comments/otqxp8/list_of_tech_migrations/) / [ycombinator discussion](https://news.ycombinator.com/item?id=27993194)
 
+## graph
+![graph](./list-of-tech-migrations.png)
+
 ## 2005
 *   [Reddit](https://redditblog.com/2005/12/05/on-lisp/) (2005) from CommonLISP to Python
 
