@@ -171,7 +171,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Kroger](https://vimeo.com/showcase/7581911/video/459492536) (2020) from PostgreSQL to YugabyteDB
 *   [Censys](https://vimeo.com/showcase/7581911/video/459492564) (2020) from PostgreSQL to YugabyteDB
 *   [Justuno](https://vimeo.com/showcase/7581911/video/459492578) (2020) from MSSQLServer/Cassandra to YugabyteDB
-*   [Xignite](https://www.yugabyte.com/success-stories/xignite/) [blog](https://www.xignite.com/news/xignite-powers-cloud-native-market-data-solutions-with-yugabytedb/) (2020) from MSSQLServer-RDS to YugabyteDB
+*   [Xignite](https://www.yugabyte.com/success-stories/xignite/) [blog](https://www.xignite.com/news/xignite-powers-cloud-native-market-data-solutions-with-yugabytedb/) (2020) from MSSQLServer to YugabyteDB
 *   [Voiceland](https://www.yugabyte.com/success-stories/voiceland/) (2020) from PostgreSQL/MSSQLServer to YugabyteDB 
 *   [Jutsuno](https://www.yugabyte.com/success-stories/justuno/) (2020) from Cassandra/Neo4j/MSSQLServer/CockroachDB to YugabyteDB
 *   [Manetu](https://www.yugabyte.com/success-stories/manetu/) (2020) from Cassandra? to YugabyteDB
