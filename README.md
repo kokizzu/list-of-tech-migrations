@@ -1,5 +1,5 @@
 # List of Tech Migrations
-list of public tech migrations (create a PR to if you have correction or addition), originally from [this blog](http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html)
+list of public tech migrations (create a PR to if you have correction or addition), originally from [this blog](http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html) which sometimes copied to this [medium](https://medium.com/@kokizzu) account.
 
 **note**: 
 * migration can be partial (not whole stack, since most companies out there not using single programming language/database anyway)
