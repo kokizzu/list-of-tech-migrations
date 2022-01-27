@@ -188,6 +188,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Nucleus](https://www.singlestore.com/customers/nucleus/) (2020) from MariaDB to SingleStore
 *   [AMajorOilAndGasCompany](https://www.singlestore.com/blog/memsql-improves-financial-operations-for-a-major-oil-and-gas-company/) (2020) from ElasticSearch to SingleStore
 *   [TapJoy](https://www.singlestore.com/blog/tapjoy-moving-to-memsql/) (2020) from MySQL to SingleStore
+*   [ARNES](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/8064775c02d5b24fcff65eb3336f6b67027ecb24#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2020) from InfluxDB to VictoriaMetrics
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
@@ -229,8 +230,11 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [LevelUpTutorials](https://www.youtube.com/watch?v=ezk6qAIXe68) (2021) from React to Svelte
 *   [Voucherify](https://www.voucherify.io/tech/how-we-moved-from-mongodb-to-postgres-without-downtime-and-cut-our-costs-by-30) (2021) from MongoDB to PostgreSQL
 *   [Fathom](https://www.singlestore.com/customers/fathom/) (2021) from MySQL/Redis/DynamoDB to SingleStore
+*   [GrooveX](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/906fca9e88c74861c5486f4cdcd1b9caaba3e790#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2021) from Thanos to VictoriaMetrics
+*   [Percona](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/ede9dd43e84034c1a8fc1080fabfe374b0f9155e#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2021) from Prometheus to VictoriaMetrics
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
 *   [Prismatic.io](https://faun.pub/why-we-moved-from-lambda-to-ecs-b84674f31869) (2022) from AWS Lambda to Amazon ECS
 *   [Fleet](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650) (2022) from AWS to Hetzner
+
