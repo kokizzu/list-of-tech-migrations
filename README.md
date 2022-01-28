@@ -232,6 +232,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Fathom](https://www.singlestore.com/customers/fathom/) (2021) from MySQL/Redis/DynamoDB to SingleStore
 *   [GrooveX](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/906fca9e88c74861c5486f4cdcd1b9caaba3e790#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2021) from Thanos to VictoriaMetrics
 *   [Percona](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/ede9dd43e84034c1a8fc1080fabfe374b0f9155e#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2021) from Prometheus to VictoriaMetrics
+*   [SimilarWeb](https://medium.com/similarweb-engineering/moving-from-nodejs-to-go-doing-more-faster-for-less-1dfe45fd6b6b) (2021) from NodeJS to Golang
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
