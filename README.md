@@ -239,4 +239,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Prismatic.io](https://faun.pub/why-we-moved-from-lambda-to-ecs-b84674f31869) (2022) from AWS Lambda to Amazon ECS
 *   [Fleet](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650) (2022) from AWS to Hetzner
 *   [Ntop](https://www.ntop.org/ntop/historical-traffic-analysis-at-scale-using-clickhouse-with-ntopng/?utm_campaign=Social%20media&utm_content=194902279&utm_medium=social&utm_source=twitter&hss_channel=tw-3894792263) (2022) from nindex to ClickHouse
+*   [Etsy](https://www.infoq.com/news/2022/01/etst-migration-from-react-preact/) (2022) from React to Preact
 
