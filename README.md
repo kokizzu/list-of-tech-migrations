@@ -241,4 +241,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Ntop](https://www.ntop.org/ntop/historical-traffic-analysis-at-scale-using-clickhouse-with-ntopng/?utm_campaign=Social%20media&utm_content=194902279&utm_medium=social&utm_source=twitter&hss_channel=tw-3894792263) (2022) from nindex to ClickHouse
 *   [Etsy](https://www.infoq.com/news/2022/01/etst-migration-from-react-preact/) (2022) from React to Preact
 *   [ReviewBunny](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) (2022) from React to RubyOnRails
+*   [DoorDash](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services) (2022) from Python to Kotlin
 
