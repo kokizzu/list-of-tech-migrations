@@ -189,7 +189,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [AMajorOilAndGasCompany](https://www.singlestore.com/blog/memsql-improves-financial-operations-for-a-major-oil-and-gas-company/) (2020) from ElasticSearch to SingleStore
 *   [TapJoy](https://www.singlestore.com/blog/tapjoy-moving-to-memsql/) (2020) from MySQL to SingleStore
 *   [ARNES](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/8064775c02d5b24fcff65eb3336f6b67027ecb24#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2020) from InfluxDB to VictoriaMetrics
-*   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from ? to ClickHouse
+*   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to ClickHouse
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
