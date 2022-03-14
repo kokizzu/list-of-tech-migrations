@@ -244,4 +244,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Etsy](https://www.infoq.com/news/2022/01/etst-migration-from-react-preact/) (2022) from React to Preact
 *   [ReviewBunny](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) (2022) from React to RubyOnRails
 *   [AntMoney](https://www.singlestore.com/resources/webinar-migrating-from-postgresql-to-drive-20-100x-faster-performance-2022-02/) (2022) from PostgreSQL to SingleStore
+*   [CaptainMetrics](https://www.singlestore.com/resources/webinar-captain-metrics-why-we-ditched-mongodb-2022-03/) (2022) from MongoDB to SingleStore
 
