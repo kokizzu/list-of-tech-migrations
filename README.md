@@ -145,6 +145,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [diwo](https://www.singlestore.com/blog/case-study-memsql-powering-ai-breakthroughs-at-diwo/) (2019) from Redis/Cassandra to SingleStore
 *   [KurtoSys](https://www.singlestore.com/blog/case-study-kurtosys-why-would-i-store-my-data-in-more-than-one-database/) (2019) from CouchBase to SingleStore
 *   [monday.com](https://www.singlestore.com/blog/case-study-mondaydotcom-bi/) (2019) from ElasticSearch to SingleStore
+*   [GumGum](https://medium.com/gumgum-tech/moving-to-amazon-dynamodb-from-hosted-cassandra-a-leap-towards-60-cost-saving-per-year-7eac8ac3bd55) (2019) from Cassandra to ScyllaDB
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
