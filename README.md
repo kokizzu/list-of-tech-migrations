@@ -193,7 +193,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to ClickHouse
 *   [MyWorld](https://www.cockroachlabs.com/blog/cassandra-to-cockroachdb/) (2020) from Cassandra to CockroachDB
 *   [PlotProjects](https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/) (2020) from MongoDB to PostgreSQL
-*   [
+*   [SpaceCloud](https://blog.space-cloud.io/posts/why-we-moved-from-grpc-to-graphql/) (2020) from gRPC to GraphQL
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
