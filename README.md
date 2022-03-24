@@ -146,6 +146,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [KurtoSys](https://www.singlestore.com/blog/case-study-kurtosys-why-would-i-store-my-data-in-more-than-one-database/) (2019) from CouchBase to SingleStore
 *   [monday.com](https://www.singlestore.com/blog/case-study-mondaydotcom-bi/) (2019) from ElasticSearch to SingleStore
 *   [GumGum](https://medium.com/gumgum-tech/moving-to-amazon-dynamodb-from-hosted-cassandra-a-leap-towards-60-cost-saving-per-year-7eac8ac3bd55) (2019) from Cassandra to ScyllaDB
+*   [Insider](https://dev.to/ebaykann/how-we-moved-from-ruby-to-go-and-decrease-our-cost-by-1400-and-increased-response-time-by-500-2onj) (2019) from Ruby to Golang
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
@@ -243,6 +244,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CodeSignal](https://codesignal.com/blog/engineering/why-we-moved-from-mongodb-meteor-observers-to-redis/) (2021) from MongoDB+Meteor to Redis
 *   [Sequoia](https://rockset.com/blog/sequoia-capital-elasticsearch-to-rockset/) (2021) from ElasticSearch to Rockset
 *   [TimeFlow](https://news.knowledia.com/US/en/articles/why-we-moved-from-druid-to-clickhouse-74c743bf41a9a7fc2bc7c9c2ab37b4e1d5c966b7) (2021) from Druid to Clickhouse
+*   [ToolJet](https://blog.tooljet.com/how-we-migrated-tooljet-server-from-ruby-to-node-js/) (2021) from Ruby to NodeJS
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
