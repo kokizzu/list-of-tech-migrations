@@ -89,7 +89,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Baidu](https://www.cockroachlabs.com/case-studies/baidu/) (2017) from MySQL to CockroachDB
 *   [Boxzilla](https://dannyvankooten.com/laravel-to-golang/) (2017) from PHP to Golang
 *   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) ([2017](https://pingcap.com/case-studies/2017-05-22-Comparison-between-MySQL-and-TiDB-with-tens-of-millions-of-data-per-day), 2019) from MySQL to TiDB
-*   [Shippable](http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql) (2017) from MongoDB to PostgreSQL  
+*   [Shippable](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740) (2017) from Golang+MongoDB to NodeJS+PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Flutter
 *   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
 *   [Dropbox](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) (2017) from CoffeeScript to TypeScript
@@ -193,6 +193,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to ClickHouse
 *   [MyWorld](https://www.cockroachlabs.com/blog/cassandra-to-cockroachdb/) (2020) from Cassandra to CockroachDB
 *   [PlotProjects](https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/) (2020) from MongoDB to PostgreSQL
+*   [
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
