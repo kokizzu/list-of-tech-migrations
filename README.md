@@ -242,6 +242,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [WeWatch](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration) (2021) from MongoDB to PostgreSQL
 *   [CodeSignal](https://codesignal.com/blog/engineering/why-we-moved-from-mongodb-meteor-observers-to-redis/) (2021) from MongoDB+Meteor to Redis
 *   [Sequoia](https://rockset.com/blog/sequoia-capital-elasticsearch-to-rockset/) (2021) from ElasticSearch to Rockset
+*   [TimeFlow](https://news.knowledia.com/US/en/articles/why-we-moved-from-druid-to-clickhouse-74c743bf41a9a7fc2bc7c9c2ab37b4e1d5c966b7) (2021) from Druid to Clickhouse
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
