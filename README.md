@@ -241,6 +241,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [DoorDash](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services) (2021) from Python to Kotlin
 *   [WeWatch](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration) (2021) from MongoDB to PostgreSQL
 *   [CodeSignal](https://codesignal.com/blog/engineering/why-we-moved-from-mongodb-meteor-observers-to-redis/) (2021) from MongoDB+Meteor to Redis
+*   [Sequoia](https://rockset.com/blog/sequoia-capital-elasticsearch-to-rockset/) (2021) from ElasticSearch to Rockset
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
