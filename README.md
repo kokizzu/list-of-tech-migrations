@@ -192,6 +192,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ARNES](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/8064775c02d5b24fcff65eb3336f6b67027ecb24#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2020) from InfluxDB to VictoriaMetrics
 *   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to ClickHouse
 *   [MyWorld](https://www.cockroachlabs.com/blog/cassandra-to-cockroachdb/) (2020) from Cassandra to CockroachDB
+*   [PlotProjects](https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/) (2020) from MongoDB to PostgreSQL
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
@@ -237,6 +238,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Percona](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/ede9dd43e84034c1a8fc1080fabfe374b0f9155e#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2021) from Prometheus to VictoriaMetrics
 *   [SimilarWeb](https://medium.com/similarweb-engineering/moving-from-nodejs-to-go-doing-more-faster-for-less-1dfe45fd6b6b) (2021) from NodeJS to Golang
 *   [DoorDash](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services) (2021) from Python to Kotlin
+*   [WeWatch](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration) (2021) from MongoDB to PostgreSQL
+*   [CodeSignal](https://codesignal.com/blog/engineering/why-we-moved-from-mongodb-meteor-observers-to-redis/) (2021) from MongoDB+Meteor to Redis
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
