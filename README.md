@@ -103,7 +103,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Bukalapak](https://medium.com/inside-bukalapak/how-we-made-a-20-times-better-performance-microservice-part-1-e304df5b347b) (2018) from Ruby/MySQL to Golang/MongoDB/ElasticSearch/CloudSQL
 *   [Centrifugo](https://medium.com/@fzambia/centrifugo-v2-0-released-built-on-top-of-new-real-time-messaging-library-for-go-language-b6ac034a6937) (2018) from Python to Golang
 *   [TheGuardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) (2018) from MongoDB to PostgreSQL  
-*   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to ClickHouse
+*   [CloudFlare](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) (2018) from CitusDB to Clickhouse
 *   [Github](https://github.blog/2018-09-06-removing-jquery-from-github-frontend/) (2018) from jQuery to vanilla javascript
 *   [Meituan](https://pingcap.com/case-studies/migrating-from-mysql-to-a-scale-out-database-to-serve-our-290-million-monthly-users) (2018) from MySQL to TiDB
 *   [iQiyi](https://pingcap.com/case-studies/tidb-in-iqiyi) (2018) from MySQL to TiDB
@@ -111,7 +111,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Mobike](https://pingcap.com/case-studies/tidb-in-mobike) (2018) from MySQL to TiDB
 *   [CashApp](https://developer.squareup.com/blog/sharding-cash/) (2018) from MySQL to Vitess
 *   [Bing](https://visualstudiomagazine.com/articles/2018/08/22/bing-net-core.aspx?m=1) (2018) from DotNET to DotNetCore
-*   [PixelJets](https://pixeljets.com/blog/clickhouse-as-a-replacement-for-elk-big-query-and-timescaledb/) (2018) from ElsticSearch+LogStash+Kibana/BigQuery to ClickHouse
+*   [PixelJets](https://pixeljets.com/blog/clickhouse-as-a-replacement-for-elk-big-query-and-timescaledb/) (2018) from ElsticSearch+LogStash+Kibana/BigQuery to Clickhouse
 *   [Insite360](https://www.singlestore.com/blog/case-study-insite360-memsql-iot-cloud/) (2018) from RedShift to SingleStore
 *   [Areeba](https://www.singlestore.com/blog/areeba-case-study/) (2018) from Hadoop/MariaDB to SingleStore
 *   [Wag](https://www.singlestore.com/blog/wag-labs-case-study/) (2018) from MySQL to SingleStore
@@ -135,8 +135,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [PlumeDesignsInc](https://www.yugabyte.com/success-stories/plume/) (2019) from MongoDB to YugabyteDB
 *   [SkyElectric](https://scylladb.medium.com/how-skyelectric-uses-scylla-to-power-its-smart-energy-platform-751f5b976d19) (2019) from MySQL/MongoDB/NodeJS to PostgreSQL/ElasticSearch/ScyllaDB/Elixir
 *   [Paytm](https://grafana.com/blog/2019/11/19/how-loki-helped-paytm-insider-save-75-of-logging-and-monitoring-costs/) (2019) from ElasticSearch to Loki
-*   [ContentSquare](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2019) from ElsticSearch+LogStash+Kibana to ClickHouse
-*   [Sentry](https://blog.sentry.io/2019/05/16/introducing-snuba-sentrys-new-search-infrastructure) (2019) from PostgreSQL+Redis to ClickHouse
+*   [ContentSquare](https://www.youtube.com/watch?v=lwYSYMwpJOU) (2019) from ElsticSearch+LogStash+Kibana to Clickhouse
+*   [Sentry](https://blog.sentry.io/2019/05/16/introducing-snuba-sentrys-new-search-infrastructure) (2019) from PostgreSQL+Redis to Clickhouse
 *   [HashNode](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz) (2019) from Nginx to Caddy
 *   [CitizensBank](https://www.youtube.com/watch?v=YGujnkAV3pc) (2019) from Kubernetes to DockerSwarm
 *   [Medaxion](https://www.singlestore.com/blog/case-study-medaxion-analytics-medtech/) (2019) from MySQL to SingleStore
@@ -186,13 +186,13 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Roblox](https://www.youtube.com/watch?v=6xOUbJ7wnP8) (2020) from Windows to Linux/Nomad
 *   [Rekki](https://dev.to/rekki/why-we-killed-elixir-3np) (2020) from Elixir to Golang
 *   [Tubber](https://roelofjanelsinga.com/articles/the-impact-of-migrating-from-php-to-golang/) (2020) from PHP to Golang
-*   [EBay](https://tech.ebayinc.com/engineering/ou-online-analytical-processing/) (2020) from ApacheDruid to ClickHouse
+*   [EBay](https://tech.ebayinc.com/engineering/ou-online-analytical-processing/) (2020) from ApacheDruid to Clickhouse
 *   [Shippo](https://goshippo.com/blog/the-road-to-aurora-postgresql-with-near-zero-downtime/) (2020) from PostgreSQL to Aurora
 *   [Nucleus](https://www.singlestore.com/customers/nucleus/) (2020) from MariaDB to SingleStore
 *   [AMajorOilAndGasCompany](https://www.singlestore.com/blog/memsql-improves-financial-operations-for-a-major-oil-and-gas-company/) (2020) from ElasticSearch to SingleStore
 *   [TapJoy](https://www.singlestore.com/blog/tapjoy-moving-to-memsql/) (2020) from MySQL to SingleStore
 *   [ARNES](https://github.com/VictoriaMetrics/VictoriaMetrics/commit/8064775c02d5b24fcff65eb3336f6b67027ecb24#diff-ff50e6019204ee4ddf2a9d295a28f1ab679d9bb56d17cc30057ce42566034a9f) (2020) from InfluxDB to VictoriaMetrics
-*   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to ClickHouse
+*   [DevOpsProdigy](https://devopsprodigy.com/blog/chose-the-right-time-series-database/) (2020) from MySQL to Clickhouse
 *   [MyWorld](https://www.cockroachlabs.com/blog/cassandra-to-cockroachdb/) (2020) from Cassandra to CockroachDB
 *   [PlotProjects](https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/) (2020) from MongoDB to PostgreSQL
 *   [SpaceCloud](https://blog.space-cloud.io/posts/why-we-moved-from-grpc-to-graphql/) (2020) from gRPC to GraphQL
@@ -216,7 +216,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [58.com](https://pingcap.com/case-studies/no-sharding-no-etl-use-scale-out-mysql-alternative-to-store-160-tb-of-data) (2021) from MySQL to TiDB
 *   [Chehaoduo](https://pingcap.com/case-studies/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative) (2021) from MySQL to TiDB
 *   [KunLun](https://pingcap.com/case-studies/empowering-your-gaming-application-with-a-scale-out-newsql-database) (2021) from MySQL to TiDB
-*   [GiG](https://www.youtube.com/watch?v=vkYvuIs1KcU&list=PLWhC0zeznqkkNYzcvHEfZ8hly3Cu9ojKk&index=8) (2021) from RedShift to ClickHouse
+*   [GiG](https://www.youtube.com/watch?v=vkYvuIs1KcU&list=PLWhC0zeznqkkNYzcvHEfZ8hly3Cu9ojKk&index=8) (2021) from RedShift to Clickhouse
 *   [Brex](https://medium.com/brexeng/building-backend-services-with-kotlin-7c8410795e4b) (2021) from Elixir to Kotlin
 *   [Storj](https://thenewstack.io/why-the-storj-cloud-storage-service-switched-to-golang/) (2021) from Python to Golang
 *   [CoinBase](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) (2021) from Native to ReactNative
@@ -227,8 +227,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Grab](https://scylladb.medium.com/at-scylla-summit-2021-we-were-joined-by-two-members-of-the-engineering-team-at-grab-chao-wang-and-7a688d36a1f0) (2021) from Cassandra to ScyllaDB
 *   [ReadyForSky](https://medium.com/@tarantool/can-tarantool-beat-redis-in-iot-703bbc781d6e) (2021) from Redis to Tarantool
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
-*   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to ClickHouse
-*   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickHouseKeeper/NuRaft
+*   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to Clickhouse
+*   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickhouseKeeper/NuRaft
 *   [Wallaroo](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) (2021) from Pony to Rust
 *   [ContentServ](https://www.youtube.com/watch?v=P-HBEDzNuWg) (2021) from Cassandra to ScyllaDB
 *   [Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/) (2021) from Javascript to Typescript
@@ -251,7 +251,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
 *   [Prismatic.io](https://faun.pub/why-we-moved-from-lambda-to-ecs-b84674f31869) (2022) from AWS Lambda to Amazon ECS
 *   [Fleet](https://blog.fleetdm.com/saving-over-100x-on-egress-switching-from-aws-to-hetzner-169888bd6650) (2022) from AWS to Hetzner
-*   [Ntop](https://www.ntop.org/ntop/historical-traffic-analysis-at-scale-using-clickhouse-with-ntopng/?utm_campaign=Social%20media&utm_content=194902279&utm_medium=social&utm_source=twitter&hss_channel=tw-3894792263) (2022) from nindex to ClickHouse
+*   [Ntop](https://www.ntop.org/ntop/historical-traffic-analysis-at-scale-using-clickhouse-with-ntopng/?utm_campaign=Social%20media&utm_content=194902279&utm_medium=social&utm_source=twitter&hss_channel=tw-3894792263) (2022) from nindex to Clickhouse
 *   [Etsy](https://www.infoq.com/news/2022/01/etst-migration-from-react-preact/) (2022) from React to Preact
 *   [ReviewBunny](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) (2022) from React to RubyOnRails
 *   [AntMoney](https://www.singlestore.com/resources/webinar-migrating-from-postgresql-to-drive-20-100x-faster-performance-2022-02/) (2022) from PostgreSQL to SingleStore
