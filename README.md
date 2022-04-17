@@ -117,6 +117,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Wag](https://www.singlestore.com/blog/wag-labs-case-study/) (2018) from MySQL to SingleStore
 *   [Fanatics](https://www.singlestore.com/blog/how-fanatics-powered-their-way-to-a-better-future/) (2018) from ElasticSearch to SingleStore
 *   [Pandora](https://www.singlestore.com/blog/pandora/) (2018) from Hadoop to SingleStore
+*   [Twitch](https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2/) (2018) from Ruby to Golang
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
@@ -148,6 +149,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [GumGum](https://medium.com/gumgum-tech/moving-to-amazon-dynamodb-from-hosted-cassandra-a-leap-towards-60-cost-saving-per-year-7eac8ac3bd55) (2019) from Cassandra to ScyllaDB
 *   [Insider](https://dev.to/ebaykann/how-we-moved-from-ruby-to-go-and-decrease-our-cost-by-1400-and-increased-response-time-by-500-2onj) (2019) from Ruby to Golang
 *   [Codism](https://codism.io/why-we-migrated-from-python-to-golang/) (2019) from Python to Golang
+*   [Twitch](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/) (2019) from EmberJS to ReactJS
 
 ## 2020
 *   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
