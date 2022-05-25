@@ -152,7 +152,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Twitch](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/) (2019) from EmberJS to ReactJS
 
 ## 2020
-*   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) (2020) from Golang to Rust
+*   [Discord](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust) (2020) from Golang to Rust
 *   [HSBC](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database) (2020) from DB2 to MongoDB 
 *   [UnnamedUSWirelessCarrier](https://www.enterprisedb.com/resources/case-studies/us-wireless-carrier-migrates-100tb-oracle-database-edb-postgres-first-open) (2020) from Oracle to PostgreSQL
 *   [ListenBrainz](https://blog.metabrainz.org/2020/07/22/listenbrainz-moves-to-timescaledb/)  (2020) from InfluxDB to TimescaleDB
