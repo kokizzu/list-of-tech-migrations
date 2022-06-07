@@ -249,6 +249,8 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Sequoia](https://rockset.com/blog/sequoia-capital-elasticsearch-to-rockset/) (2021) from ElasticSearch to Rockset
 *   [TimeFlow](https://news.knowledia.com/US/en/articles/why-we-moved-from-druid-to-clickhouse-74c743bf41a9a7fc2bc7c9c2ab37b4e1d5c966b7) (2021) from Druid to Clickhouse
 *   [ToolJet](https://blog.tooljet.com/how-we-migrated-tooljet-server-from-ruby-to-node-js/) (2021) from Ruby to NodeJS
+*   [Dream11](https://aerospike.com/resources/videos/dream11-architecting-scale-with-aerospike/) (2021) from Elasticache Redis to Aerospike
+*   [AirTel](https://aerospike.com/customers/airtel/) (2021) from Oracle TimesTen to Aerospike
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
