@@ -232,7 +232,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Conductor](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/) (2021) from Kubernetes to Nomad
 *   [Uber](https://eng.uber.com/logging/) (2021) from ElsticSearch+LogStash+Kibana to Clickhouse
 *   [ClickHouse](https://www.youtube.com/watch?v=abhcCRW09Ac) (2021) from ZooKeeper to ClickhouseKeeper/NuRaft
-*   [Wallaroo](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) (2021) from Pony to Rust
+*   [Wallaroo](https://www.wallaroo.ai/blog/wallaroo-move-to-rust) (2021) from Pony to Rust
 *   [ContentServ](https://www.youtube.com/watch?v=P-HBEDzNuWg) (2021) from Cassandra to ScyllaDB
 *   [Etsy](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/) (2021) from Javascript to Typescript
 *   [JD.com](https://pingcap.com/case-studies/8x-system-performance-boost-why-we-migrated-from-mysql-to-newsql-database) (2021) from MySQL to TiDB
