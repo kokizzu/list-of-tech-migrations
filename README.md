@@ -263,4 +263,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [CaptainMetrics](https://www.singlestore.com/resources/webinar-captain-metrics-why-we-ditched-mongodb-2022-03/) (2022) from MongoDB to SingleStore
 *   [SeventhSense](https://www.youtube.com/watch?v=8JFiDx6vLKQ) (2022) from AmazonKinesis/Kafka to RedPanda
 *   [Hashura](https://nhost.io/blog/hasura-storage-in-go-5x-performance-increase-and-40-percent-less-ram) (2022) from NodeJS to Go
+*   [Kiwi](https://www.youtube.com/watch?v=YFm62QHIW1E) (2022) from PostgreSQL/Cassandra to ScyllaDB
 
