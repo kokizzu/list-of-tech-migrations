@@ -11,6 +11,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 
 ## 2005
 *   [Reddit](https://redditblog.com/2005/12/05/on-lisp/) (2005) from CommonLISP to Python
+*   [Bloomberg](https://www.bloomberg.com/company/stories/10-insights-adopting-typescript-at-scale/) (2005) from C/C++ to Javascript
 
 ## 2010
 *   [Bing](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/) (2010) from C++ to DotNET
