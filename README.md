@@ -45,6 +45,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [TimeHop](https://medium.com/building-timehop/why-timehop-chose-go-to-replace-our-rails-app-2855ea1912d#.h9cc85kym) (2013) from Ruby to Golang
 *   [CanonicalJuju](https://groups.google.com/forum/#!topic/golang-nuts/jLnMsUbYwrQ) (2013) from Python to Golang
 *   [Facebook](https://en.wikipedia.org/wiki/HHVM) (2013) from PHP to Hack
+*   [Blippex](https://blippex.github.io/updates/2013/09/23/why-we-moved-away-from-aws.html) (2013) from AWS to OVH
 
 ## 2014
 *   [Instill](https://www.youtube.com/watch?v=Hg3cEBgq9Ds) (2014) from AngularDart to Polymer
@@ -77,6 +78,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Sky](https://blog.couchbase.com/moving-from-oracle-to-couchbase/) (2016) from Oracle to Couchbase
 *   [Amadeus](https://www.computerweekly.com/news/450404428/Amadeus-turns-to-NoSQL-to-answer-complex-travel-questions) (2016) from Oracle to Couchbase
 *   [AppsFlyer](https://www.singlestore.com/blog/appsflyer-shares-journey-to-real-time-analytics-using-memsql/) (2016) from Druid/MongoDB/Redis/Cassandra/Redshift to SingleStore
+*   [Dropbox](https://www.datacenterknowledge.com/archives/2016/03/16/moving-away-from-aws-cloud-dropbox-isnt-an-anomaly-and-heres-why) (2016) from AWS to self-managed/own-datacenter
 
 ## 2017
 *   [BleacherReport](https://www.techworld.com/apps-wearables/how-elixir-helped-bleacher-report-handle-8x-more-traffic-3653957/) (2017) from Ruby to Elixir
