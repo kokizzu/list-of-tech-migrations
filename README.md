@@ -269,4 +269,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Kiwi](https://www.youtube.com/watch?v=YFm62QHIW1E) (2022) from PostgreSQL/Cassandra to ScyllaDB
 *   [Rakuten](https://www.youtube.com/watch?v=BS13KnN29AU) (2022) from Cassandra to ScyllaDB
 *   [Wipro](https://www.youtube.com/watch?v=rHJUf6qGCCM) (2022) from HBase to Aerospike
+*   [nhost](https://nhost.io/blog/individual-postgres-instances) (2022) from AWS-RDS to PostgreSQL+Kubernetes
 
