@@ -270,4 +270,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Rakuten](https://www.youtube.com/watch?v=BS13KnN29AU) (2022) from Cassandra to ScyllaDB
 *   [Wipro](https://www.youtube.com/watch?v=rHJUf6qGCCM) (2022) from HBase to Aerospike
 *   [nhost](https://nhost.io/blog/individual-postgres-instances) (2022) from PostgreSQL-RDS to PostgreSQL+Kubernetes
+*   [Prerender.io](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46) (2022) from AWS to InHouse
 
