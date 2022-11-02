@@ -274,4 +274,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Umes](https://itnext.io/why-our-company-replaced-golang-graphql-with-typescript-prisma-trpc-ef56aaaa1c8c) (2022) from Golang+GraphQL to TypeScript+Prisma+tRPC
 *   [K-Optional](https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase) (2022) from Firebase to Supabase
 *   [Contexte](https://www.youtube.com/watch?v=3GObi93tjZI) (2022) from React to htmx
+*   [Rakuten](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/) (2022) from RedHat to RockyLinux
 
