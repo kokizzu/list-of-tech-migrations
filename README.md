@@ -275,4 +275,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [K-Optional](https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase) (2022) from Firebase to Supabase
 *   [Contexte](https://www.youtube.com/watch?v=3GObi93tjZI) (2022) from React to htmx
 *   [Rakuten](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/) (2022) from RedHat to RockyLinux
+*   [NucleusData](https://www.singlestore.com/resources/webinar-how-nucleus-security-drove-4X-throughput-with-distributed-sql-2022-12/) (2022) from MariaDB to SingleStore
 
