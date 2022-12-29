@@ -121,6 +121,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Fanatics](https://www.singlestore.com/blog/how-fanatics-powered-their-way-to-a-better-future/) (2018) from ElasticSearch to SingleStore
 *   [Pandora](https://www.singlestore.com/blog/pandora/) (2018) from Hadoop to SingleStore
 *   [Twitch](https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2/) (2018) from Ruby to Golang
+*   [Kairos](https://www.kairos.com/blog/php-to-go-how-we-boosted-api-performance-by-8x) (2018) from PHP to Golang
 
 ## 2019
 *   [AppsFlyer](https://www.infoq.com/articles/api-gateway-clojure-golang) (2019) from Clojure to Golang
