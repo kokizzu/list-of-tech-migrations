@@ -279,3 +279,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [NucleusData](https://www.singlestore.com/resources/webinar-how-nucleus-security-drove-4X-throughput-with-distributed-sql-2022-12/) (2022) from MariaDB to SingleStore
 *   [Rolebase](https://github.com/nhost/nhost/discussions/1121) (2022) from Firebase to Nhost
 
+## 2023
+*   [HiFi](https://clickhouse.com/blog/hifis-migration-from-bigquery-to-clickhouse) (2023) from BigQuery to Clickhouse
