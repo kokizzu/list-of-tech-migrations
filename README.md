@@ -283,3 +283,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2023
 *   [HiFi](https://clickhouse.com/blog/hifis-migration-from-bigquery-to-clickhouse) (2023) from BigQuery to Clickhouse
 *   [RisingWaveLabs](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) (2023) from C++ to Rust
+*   [Vercel](https://vercel.com/blog/turborepo-migration-go-rust) (2023) from Go to Rust
