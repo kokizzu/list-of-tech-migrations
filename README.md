@@ -285,4 +285,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [RisingWaveLabs](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) (2023) from C++ to Rust
 *   [Vercel](https://vercel.com/blog/turborepo-migration-go-rust) (2023) from Go to Rust
 *   [Discord](https://discord.com/blog/how-discord-stores-trillions-of-messages) (2023) from Cassandra to ScyllaDB
-*   [RocLang](https://github.com/roc-lang/roc/blob/main/FAQ.md#why-does-roc-use-both-rust-and-zig) (2023) from Rust to Zig
+*   [RocLang](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) (2023) from Rust to Zig
