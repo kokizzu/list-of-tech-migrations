@@ -286,3 +286,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Vercel](https://vercel.com/blog/turborepo-migration-go-rust) (2023) from Go to Rust
 *   [Discord](https://discord.com/blog/how-discord-stores-trillions-of-messages) (2023) from Cassandra to ScyllaDB
 *   [RocLang](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) (2023) from Rust to Zig
+*   [37Signals](https://dev.37signals.com/bringing-our-apps-back-home/) (2023) from Kubernetes to mrsk
