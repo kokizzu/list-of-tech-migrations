@@ -288,3 +288,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [RocLang](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) (2023) from Rust to Zig
 *   [37Signals](https://dev.37signals.com/bringing-our-apps-back-home/) (2023) from Kubernetes to mrsk
 *   [CultureAmp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/) (2023) from Elm to React
+*   [ApiGear](https://www.reddit.com/r/golang/comments/12fvi7e/comment/jfjg4as/?utm_source=reddit&utm_medium=web2x&context=3) (2023) from NodeJS to Go
