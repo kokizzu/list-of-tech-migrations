@@ -204,6 +204,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [PlotProjects](https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/) (2020) from MongoDB to PostgreSQL
 *   [SpaceCloud](https://blog.space-cloud.io/posts/why-we-moved-from-grpc-to-graphql/) (2020) from gRPC to GraphQL
 *   [Sudo](https://betterprogramming.pub/why-we-moved-from-react-to-svelte-f20afb1dc5d5) (2020) from React to Svelte
+*   [LoginRadius](https://www.loginradius.com/blog/engineering/a-journey-from-node-to-golang/) (2020) from NodeJS to Golang
 
 ## 2021
 *   [KhanAcademy](https://youtu.be/je9bC3DZ6tg) (2021) from Python to Golang
