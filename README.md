@@ -99,6 +99,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Manage](https://www.singlestore.com/blog/how-manage-accelerated-data-freshness-by-10x/) (2017) from MySQL/Hadoop/Hive/Kafka to SingleStore
 *   [BlueShift](https://www.singlestore.com/blog/blueshift-succeeding-with-real-time-analytics/) (2017) from MSSQLServer to SingleStore
 *   [Myntra](https://www.singlestore.com/blog/guest-post-real-time-big-data-ingestion-with-meterial/) (2017) from RedShift to SingleStore
+*   [TreeScale](https://medium.com/hackernoon/5-reasons-why-we-switched-from-python-to-go-4414d5f42690) (2017) from Python to Go
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
