@@ -99,7 +99,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Manage](https://www.singlestore.com/blog/how-manage-accelerated-data-freshness-by-10x/) (2017) from MySQL/Hadoop/Hive/Kafka to SingleStore
 *   [BlueShift](https://www.singlestore.com/blog/blueshift-succeeding-with-real-time-analytics/) (2017) from MSSQLServer to SingleStore
 *   [Myntra](https://www.singlestore.com/blog/guest-post-real-time-big-data-ingestion-with-meterial/) (2017) from RedShift to SingleStore
-*   [TreeScale](https://medium.com/hackernoon/5-reasons-why-we-switched-from-python-to-go-4414d5f42690) (2017) from Python to Go
+*   [TreeScale](https://medium.com/hackernoon/5-reasons-why-we-switched-from-python-to-go-4414d5f42690) (2017) from Python to Golang
 
 ## 2018
 *   [AppTree](https://www.youtube.com/watch?v=GpLb2XvKv20&list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5&index=4) (2018) from Java/Kotlin/ObjC/Swift to Dart
@@ -268,7 +268,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [AntMoney](https://www.singlestore.com/resources/webinar-migrating-from-postgresql-to-drive-20-100x-faster-performance-2022-02/) (2022) from PostgreSQL to SingleStore
 *   [CaptainMetrics](https://www.singlestore.com/resources/webinar-captain-metrics-why-we-ditched-mongodb-2022-03/) (2022) from MongoDB to SingleStore
 *   [SeventhSense](https://www.youtube.com/watch?v=8JFiDx6vLKQ) (2022) from AmazonKinesis/Kafka to RedPanda
-*   [Hashura](https://nhost.io/blog/hasura-storage-in-go-5x-performance-increase-and-40-percent-less-ram) (2022) from NodeJS to Go
+*   [Hashura](https://nhost.io/blog/hasura-storage-in-go-5x-performance-increase-and-40-percent-less-ram) (2022) from NodeJS to Golang
 *   [Kiwi](https://www.youtube.com/watch?v=YFm62QHIW1E) (2022) from PostgreSQL/Cassandra to ScyllaDB
 *   [Rakuten](https://www.youtube.com/watch?v=BS13KnN29AU) (2022) from Cassandra to ScyllaDB
 *   [Wipro](https://www.youtube.com/watch?v=rHJUf6qGCCM) (2022) from HBase to Aerospike
@@ -280,17 +280,17 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Rakuten](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/) (2022) from RedHat to RockyLinux
 *   [NucleusData](https://www.singlestore.com/resources/webinar-how-nucleus-security-drove-4X-throughput-with-distributed-sql-2022-12/) (2022) from MariaDB to SingleStore
 *   [Rolebase](https://github.com/nhost/nhost/discussions/1121) (2022) from Firebase to Nhost
-*   [Jamf](https://medium.com/jamf-engineering/making-our-lives-easier-by-rewriting-a-global-dns-gateway-in-go-3e39cdcdae83) (2022) from Java to Go
+*   [Jamf](https://medium.com/jamf-engineering/making-our-lives-easier-by-rewriting-a-global-dns-gateway-in-go-3e39cdcdae83) (2022) from Java to Golang
 *   [TheirStack.com](https://www.tinybird.co/blog-posts/text-search-at-scale-with-clickhouse) (2022) from PostgreSQL to Clickhouse
 
 ## 2023
 *   [HiFi](https://clickhouse.com/blog/hifis-migration-from-bigquery-to-clickhouse) (2023) from BigQuery to Clickhouse
 *   [RisingWaveLabs](https://www.risingwave-labs.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) (2023) from C++ to Rust
-*   [Vercel](https://vercel.com/blog/turborepo-migration-go-rust) (2023) from Go to Rust
+*   [Vercel](https://vercel.com/blog/turborepo-migration-go-rust) (2023) from Golang to Rust
 *   [Discord](https://discord.com/blog/how-discord-stores-trillions-of-messages) (2023) from Cassandra to ScyllaDB
 *   [RocLang](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/) (2023) from Rust to Zig
 *   [37Signals](https://dev.37signals.com/bringing-our-apps-back-home/) (2023) from Kubernetes to mrsk
 *   [CultureAmp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/) (2023) from Elm to React
-*   [ApiGear](https://www.reddit.com/r/golang/comments/12fvi7e/comment/jfjg4as/?utm_source=reddit&utm_medium=web2x&context=3) (2023) from NodeJS to Go
+*   [ApiGear](https://www.reddit.com/r/golang/comments/12fvi7e/comment/jfjg4as/?utm_source=reddit&utm_medium=web2x&context=3) (2023) from NodeJS to Golang
 *   [Prequel](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue) (2023) from RabbitMQ to PostgreSQL
-*   [Trendyol](https://medium.com/trendyol-tech/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041) (2023) from Scala to Go
+*   [Trendyol](https://medium.com/trendyol-tech/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041) (2023) from Scala to Golang
