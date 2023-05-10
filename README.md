@@ -294,4 +294,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ApiGear](https://www.reddit.com/r/golang/comments/12fvi7e/comment/jfjg4as/?utm_source=reddit&utm_medium=web2x&context=3) (2023) from NodeJS to Golang
 *   [Prequel](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue) (2023) from RabbitMQ to PostgreSQL
 *   [Trendyol](https://medium.com/trendyol-tech/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041) (2023) from Scala to Golang
-*   [AmazonPrimeVideos](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) (2023) from Lambda to EC2+ECS
+*   [AmazonPrimeVideo](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) (2023) from Lambda to EC2+ECS
