@@ -296,3 +296,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Trendyol](https://medium.com/trendyol-tech/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041) (2023) from Scala to Golang
 *   [AmazonPrimeVideo](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90) (2023) from AWS Lambda to AWS EC2+ECS
 *   [Svelte](https://thenewstack.io/rich-harris-talks-sveltekit-and-whats-next-for-svelte/) (2023) from TypeScript to Javascript+JSDoc
+*   [ValTown](https://blog.val.town/blog/migrating-from-supabase) (2023) from Supabase to PostgreSQL+Render
