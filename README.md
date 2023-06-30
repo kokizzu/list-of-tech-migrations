@@ -298,3 +298,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Svelte](https://thenewstack.io/rich-harris-talks-sveltekit-and-whats-next-for-svelte/) (2023) from TypeScript to Javascript+JSDoc
 *   [ValTown](https://blog.val.town/blog/migrating-from-supabase) (2023) from Supabase to PostgreSQL+Render
 *   [ChessCraft](https://blog.stuartspence.ca/2023-05-goodbye-mongo.html) (2023) from MongoDB to PostgreSQL+Redis
+*   [Fly.io](https://curiouslynerdy.com/fly-io-replaces-nomad-with-homegrown/) (2023) from Nomad to NIH
