@@ -300,3 +300,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ChessCraft](https://blog.stuartspence.ca/2023-05-goodbye-mongo.html) (2023) from MongoDB to PostgreSQL+Redis
 *   [Fly.io](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/) (2023) from Nomad to flyd
 *   [CodeDamn](https://codedamn.com/news/product/dont-use-prisma) (2023) from Prisma/MongoDB to PostgreSQL
+*   [LinkedIn](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/) (2023) from JSON to ProtoBuf
