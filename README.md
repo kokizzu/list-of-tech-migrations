@@ -91,7 +91,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Stream](https://getstream.io/blog/switched-python-go/) (2017) from Python to Golang
 *   [Baidu](https://www.cockroachlabs.com/case-studies/baidu/) (2017) from MySQL to CockroachDB
 *   [Boxzilla](https://dannyvankooten.com/laravel-to-golang/) (2017) from PHP to Golang
-*   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) ([2017](https://pingcap.com/case-studies/2017-05-22-Comparison-between-MySQL-and-TiDB-with-tens-of-millions-of-data-per-day), 2019) from MySQL to TiDB
+*   [GAEA](https://pingcap.medium.com/migration-from-mysql-to-tidb-to-handle-tens-of-millions-of-rows-of-data-per-day-f5b6e0e27d48) ([2017](https://pingcap.com/case-studies/2017-05-22-Comparison-between-MySQL-and-TiDB-with-tens-of-millions-of-data-per-day), 2019) from MongoDB/MySQL to TiDB
 *   [Shippable](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740) [more](https://dzone.com/articles/why-we-moved-from-nosql-mongodb-to-postgresql) (2017) from Golang+MongoDB to NodeJS+PostgreSQL  
 *   [GeekyAnts](https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a) (2017) from ReactNative to Flutter
 *   [Yuanfudao](https://pingcap.com/case-studies/tidb-in-yuanfudao) (2017) from MySQL to TiDB
