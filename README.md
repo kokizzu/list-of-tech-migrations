@@ -301,3 +301,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Fly.io](https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/) (2023) from Nomad to flyd
 *   [CodeDamn](https://codedamn.com/news/product/dont-use-prisma) (2023) from Prisma/MongoDB to PostgreSQL
 *   [LinkedIn](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/) (2023) from JSON to ProtoBuf
+*   [Bookshop.org](https://encore.dev/customers/bookshop) (2023) from RubyOnRails to Golang+Encore
+*   [Lizza](https://encore.dev/customers/lizza) (2023) from Firebase to Encore
