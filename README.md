@@ -305,3 +305,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Bookshop.org](https://encore.dev/customers/bookshop) (2023) from RubyOnRails to Golang+Encore
 *   [Lizza](https://encore.dev/customers/lizza) (2023) from Firebase to Encore
 *   [InfluxData](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/) (2023) fom Golang to Rust
+*   [FileWave](https://www.synadia.com/blog/filewave-why-we-moved-from-zeromq-to-nats) (2023) from ZeroMQ to NATS
