@@ -257,6 +257,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [ToolJet](https://blog.tooljet.com/how-we-migrated-tooljet-server-from-ruby-to-node-js/) (2021) from Ruby to NodeJS
 *   [Dream11](https://aerospike.com/resources/videos/dream11-architecting-scale-with-aerospike/) (2021) from Elasticache Redis to Aerospike
 *   [AirTel](https://aerospike.com/customers/airtel/) (2021) from Oracle TimesTen to Aerospike
+*   [PostHog](https://www.youtube.com/watch?v=6IwLWEx_mg4) (2021) from PostgreSQL to Clickhouse
 
 ## 2022
 *   [Factors.ai](https://www.singlestore.com/resources/webinar-turbocharge-your-open-source-db-to-drive-100x-faster-performance-2022-01/) (2022) from PostgreSQL to SingleStore
