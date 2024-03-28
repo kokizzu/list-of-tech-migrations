@@ -311,7 +311,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [NicelandVPN](https://discord.com/channels/1042734330029547630/1149257802611699743/1149257802611699743) (2023) from Electron to Wails.io
 *   [DoorDash](https://thenewstack.io/how-doordash-migrated-from-aurora-postgres-to-cockroachdb/) (2023) from Aurora Postgres to CockroachDB
 *   [Levenue](https://www.youtube.com/watch?v=zB9tEQYLPL4) (2023) from SvelteKit to Golang+HTMX
-*   [Lyft](https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd?gi=187126e686a7) (2023) from Druid to Clickhouse
+*   [Lyft](https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd?gi=187126e686a7) (2023) from Druid to Kafka+Clickhouse
 
 ## 2024
 *   [eFishery](https://www.linkedin.com/feed/update/urn:li:activity:7148876278417215488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148876278417215488%29) (2024) from AWS CloudFront to CloudFlare
