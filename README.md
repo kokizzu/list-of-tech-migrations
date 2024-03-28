@@ -316,3 +316,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 ## 2024
 *   [eFishery](https://www.linkedin.com/feed/update/urn:li:activity:7148876278417215488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148876278417215488%29) (2024) from AWS CloudFront to CloudFlare
 *   [Vercel](https://www.youtube.com/watch?v=_SzvJJ3_6M0) (2024) from Go to Rust
+*   [Ramp](https://www.youtube.com/watch?v=7BtUgUb4gCs) (2024) from PostgreSQL to Clickhouse
