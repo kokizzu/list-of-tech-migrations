@@ -318,3 +318,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Vercel](https://www.youtube.com/watch?v=_SzvJJ3_6M0) (2024) from Go to Rust
 *   [Ramp](https://www.youtube.com/watch?v=7BtUgUb4gCs) (2024) from PostgreSQL to Clickhouse
 *   [Infiscal](https://infisical.com/blog/postgresql-migration-technical) (2024) from MongoDB to PostgreSQL
+*   [Reddit](https://www.infoq.com/news/2024/03/reddit-metadata-s3-postgres/) (2024) from S3 metadata to Aurora PostgreSQL
