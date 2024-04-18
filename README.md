@@ -321,3 +321,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Reddit](https://www.infoq.com/news/2024/03/reddit-metadata-s3-postgres/) (2024) from S3 metadata to Aurora PostgreSQL
 *   [Coralogix](https://thenewstack.io/from-postgres-to-scylladb-nosql-with-a-349x-speed-boost/) (2024) from PostgreSQL to ScyllaDB
 *   [Fablehenge](https://dusty.phillips.codes/2024/03/20/we-rewrote-our-react-app-in-svelte-in-three-weeks/) (2024) from React to Svelte
+*   [Corsearch](https://www.youtube.com/watch?v=BuS8jFL9cvw) (2024) from MySQL to Clickhouse
