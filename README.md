@@ -324,3 +324,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Fablehenge](https://dusty.phillips.codes/2024/03/20/we-rewrote-our-react-app-in-svelte-in-three-weeks/) (2024) from React to Svelte
 *   [Corsearch](https://www.youtube.com/watch?v=BuS8jFL9cvw) (2024) from MySQL to Clickhouse
 *   [Uber](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/) (2024) from DynamoDB to LedgerStore
+*   [37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7) (2024) from Mac to Linux
