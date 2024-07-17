@@ -325,3 +325,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Corsearch](https://www.youtube.com/watch?v=BuS8jFL9cvw) (2024) from MySQL to Clickhouse
 *   [Uber](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/) (2024) from DynamoDB to LedgerStore
 *   [37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7) (2024) from Mac to Linux
+*   [Beehiiv](https://www.youtube.com/watch?v=q44bQQoYOtY) (2024) from PostgreSQL to Clickhouse
