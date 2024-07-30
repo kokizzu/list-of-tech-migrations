@@ -313,6 +313,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Levenue](https://www.youtube.com/watch?v=zB9tEQYLPL4) (2023) from SvelteKit to Golang+HTMX
 *   [Lyft](https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd?gi=187126e686a7) (2023) from Druid to Kafka+Clickhouse
 *   [Tencent](https://www.reddit.com/r/datascience/comments/11mgmf1/tencent_data_engineer_why_we_go_from_clickhouse/) (2023) from Clickhouse to ApacheDoris
+*   [Ongage](https://clickhouse.com/blog/ongages-strategic-shift-to-clickhouse-for-real-time-email-marketing) (2023) from MySQL to Clickhouse
 
 ## 2024
 *   [eFishery](https://www.linkedin.com/feed/update/urn:li:activity:7148876278417215488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148876278417215488%29) (2024) from AWS CloudFront to CloudFlare
@@ -326,3 +327,9 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Uber](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/) (2024) from DynamoDB to LedgerStore
 *   [37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7) (2024) from Mac to Linux
 *   [Beehiiv](https://www.youtube.com/watch?v=q44bQQoYOtY) (2024) from PostgreSQL to Clickhouse
+*   [Bonree](https://clickhouse.com/blog/bonree-replaces-zookeeper-with-clickhouse-keeper-for-drastically-improved-performance-and-reduced-costs) (2024) from ZooKeeper to ClickhouseKeeper
+*   [CommonRoom](https://clickhouse.com/blog/clickhouse-replaces-postgres-to-power-real-time-analytics-in-common-room-customer-portal) (2024) from PostgreSQL to Clickhouse
+*   [Shopee](https://clickhouse.com/blog/seeing-the-big-picture-shopees-journey-to-distributed-tracing-with-clickhouse) (2024) from Druid+Hive+Presto to Clickhouse
+*   [OpenMeter](https://clickhouse.com/blog/openmeter-real-time-usage-based-billing-powered-by-clickhouse-cloud) (2024) from PostgreSQL+Kafka+kSqlDB to Clickhouse
+*   [trip.com](https://clickhouse.com/blog/how-trip.com-migrated-from-elasticsearch-and-built-a-50pb-logging-solution-with-clickhouse) (2024) from ElasticSearch to Clickhouse
+*   [Didi](https://clickhouse.com/blog/didi-migrates-from-elasticsearch-to-clickHouse-for-a-new-generation-log-storage-system) (2024) from ElasticSearch to Clickhouse
