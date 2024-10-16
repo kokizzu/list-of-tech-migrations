@@ -333,3 +333,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [OpenMeter](https://clickhouse.com/blog/openmeter-real-time-usage-based-billing-powered-by-clickhouse-cloud) (2024) from PostgreSQL+Kafka+kSqlDB to Clickhouse
 *   [trip.com](https://clickhouse.com/blog/how-trip.com-migrated-from-elasticsearch-and-built-a-50pb-logging-solution-with-clickhouse) (2024) from ElasticSearch to Clickhouse
 *   [Didi](https://clickhouse.com/blog/didi-migrates-from-elasticsearch-to-clickHouse-for-a-new-generation-log-storage-system) (2024) from ElasticSearch to Clickhouse
+*   [Figma](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/) (2024) from Skew to Typescript
