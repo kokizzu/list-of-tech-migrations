@@ -314,6 +314,7 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Lyft](https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd?gi=187126e686a7) (2023) from Druid to Kafka+Clickhouse
 *   [Tencent](https://www.reddit.com/r/datascience/comments/11mgmf1/tencent_data_engineer_why_we_go_from_clickhouse/) (2023) from Clickhouse to ApacheDoris
 *   [Ongage](https://clickhouse.com/blog/ongages-strategic-shift-to-clickhouse-for-real-time-email-marketing) (2023) from MySQL to Clickhouse
+*   [Digger](https://medium.com/@DiggerHQ/we-rewrote-our-product-in-go-from-scratch-a0e9cbba193e) (2023) from Python to Golang
 
 ## 2024
 *   [eFishery](https://www.linkedin.com/feed/update/urn:li:activity:7148876278417215488?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7148876278417215488%29) (2024) from AWS CloudFront to CloudFlare
