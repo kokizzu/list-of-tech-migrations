@@ -341,3 +341,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [FlockSafety](https://www.youtube.com/watch?v=dN4yrzn8Td4) (2025) from RedShift to Clickhouse
 *   [EpicGames](https://thenewstack.io/why-teams-are-ditching-dynamodb/) (2025) from DynamoDB to ScyllaDB
 *   [DigitalTurbine](https://thenewstack.io/why-teams-are-ditching-dynamodb/) (2025) from DynamoDB to ScyllaDB
+*   [DaggerIO](https://dagger.io/blog/replaced-react-with-go) (2025) from ReactJS to Golang+WASM
