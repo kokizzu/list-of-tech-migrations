@@ -342,3 +342,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [EpicGames](https://thenewstack.io/why-teams-are-ditching-dynamodb/) (2025) from DynamoDB to ScyllaDB
 *   [DigitalTurbine](https://thenewstack.io/why-teams-are-ditching-dynamodb/) (2025) from DynamoDB to ScyllaDB
 *   [DaggerIO](https://dagger.io/blog/replaced-react-with-go) (2025) from ReactJS to Golang+WASM
+*   [Microsoft](https://devblogs.microsoft.com/typescript/typescript-native-port/) (2025) from Typescript to Golang
