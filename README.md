@@ -343,4 +343,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [DigitalTurbine](https://thenewstack.io/why-teams-are-ditching-dynamodb/) (2025) from DynamoDB to ScyllaDB
 *   [DaggerIO](https://dagger.io/blog/replaced-react-with-go) (2025) from ReactJS to Golang+WASM
 *   [Microsoft](https://devblogs.microsoft.com/typescript/typescript-native-port/) (2025) from Typescript to Golang
-*   [Chartmetric](https://www.youtube.com/watch?v=gd1yWbnaalk) (2025) from AWS RDS+Snowflake to Clickhouse
+*   [Chartmetric](https://www.youtube.com/watch?v=gd1yWbnaalk) (2025) from PostgreSQL/AWS RDS/Snowflake to Clickhouse
