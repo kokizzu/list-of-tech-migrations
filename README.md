@@ -344,3 +344,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [DaggerIO](https://dagger.io/blog/replaced-react-with-go) (2025) from ReactJS to Golang+WASM
 *   [Microsoft](https://devblogs.microsoft.com/typescript/typescript-native-port/) (2025) from Typescript to Golang
 *   [Chartmetric](https://www.youtube.com/watch?v=gd1yWbnaalk) (2025) from PostgreSQL/AWS RDS/Snowflake to Clickhouse
+*   [Geizhals](https://www.youtube.com/watch?v=aJVdfPk9WmI) (2025) from Preact to Svelte
