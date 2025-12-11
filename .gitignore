@@ -1,0 +1,5 @@
+# Ignore the generated dot file
+diagram_generator/diagram.dot
+
+# Ignore compiled Go binaries
+diagram_generator/diagram_generator

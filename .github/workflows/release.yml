@@ -1,0 +1,48 @@
+name: Create Release
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  create-release:
+    if: github.event.pull_request.merged == true && contains(github.event.pull_request.head.ref, 'update-diagram')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # a deep clone is required to get all commits
+
+      - name: Get PR file changes
+        id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        if: contains(steps.files.outputs.all, 'list-of-tech-migrations.png')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ github.run_number }}
+          release_name: Release v${{ github.run_number }}
+          body: |
+            New version of the tech migration diagram.
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        if: contains(steps.files.outputs.all, 'list-of-tech-migrations.png')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./list-of-tech-migrations.png
+          asset_name: list-of-tech-migrations.png
+          asset_content_type: image/png

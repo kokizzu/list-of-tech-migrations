@@ -1,0 +1,40 @@
+name: Update Tech Migration Diagram
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  update-diagram:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18'
+
+      - name: Install Graphviz
+        run: sudo apt-get update && sudo apt-get install -y graphviz
+
+      - name: Generate diagram
+        run: |
+          cd diagram_generator
+          go run main.go
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "docs: update tech migration diagram"
+          title: "Update Tech Migration Diagram"
+          body: "The tech migration diagram has been updated based on the latest changes to the README."
+          branch: "update-diagram"
+          base: "main"
+          delete-branch: true
